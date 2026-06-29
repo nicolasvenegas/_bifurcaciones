@@ -1,0 +1,6822 @@
+[
+  {
+    "titulo": "Número 002",
+    "fecha": "2005-03-06 23:12:12",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Número 001",
+    "fecha": "2004-12-06 23:13:27",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Imaginarios urbanos e imaginación urbana",
+    "fecha": "2004-12-12 19:47:19",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "América Latina",
+      "estudios urbanos",
+      "modernidad"
+    ]
+  },
+  {
+    "titulo": "Ciudad, poder, identidad",
+    "fecha": "2005-03-03 20:08:40",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Espectáculo",
+      "poder"
+    ]
+  },
+  {
+    "titulo": "Cinco versus la ciudad",
+    "fecha": "2004-12-12 00:06:25",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "antiurbanismo"
+    ]
+  },
+  {
+    "titulo": "El barrio, un ser de otro planeta",
+    "fecha": "2004-12-12 01:25:42",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "Montevideo",
+      "uruguay"
+    ]
+  },
+  {
+    "titulo": "Cortázar y los subtes",
+    "fecha": "2005-03-03 02:02:50",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "imaginarios urbanos",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Lejos de NYC",
+    "fecha": "2005-03-03 02:09:07",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "cultura",
+      "hip hop",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Estética, política y vida cotidiana",
+    "fecha": "2005-06-06 02:45:01",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "estética",
+      "popular",
+      "urbana"
+    ]
+  },
+  {
+    "titulo": "Ciudad de Dios",
+    "fecha": "2004-12-15 11:31:21",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "delincuencia",
+      "favela",
+      "Río de Janeiro",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Las ciudades norteamericanas",
+    "fecha": "2004-12-06 12:55:52",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cuadrícula",
+      "Estados Unidos",
+      "mapa",
+      "Nueva York",
+      "religión"
+    ]
+  },
+  {
+    "titulo": "Desplazamientos",
+    "fecha": "2004-12-06 14:51:49",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "metro",
+      "movilidad",
+      "santiago",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Monterrey: graffiti en blanco y negro",
+    "fecha": "2004-12-10 23:04:26",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "graffiti",
+      "méxico",
+      "Monterrey"
+    ]
+  },
+  {
+    "titulo": "El urbanismo como modo de vida",
+    "fecha": "2005-03-11 01:03:16",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "densidad",
+      "escuela de chicago",
+      "heterogeneidad",
+      "multitud",
+      "sociología urbana"
+    ]
+  },
+  {
+    "titulo": "Del campo a la ciudad y al campo (y a la ciudad de vuelta)",
+    "fecha": "2005-03-11 02:50:43",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Chicago",
+      "escuela de chicago",
+      "sociología urbana"
+    ]
+  },
+  {
+    "titulo": "My kind of town: Chicago bajo la mirada del visitante",
+    "fecha": "2005-01-14 22:16:49",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Chicago",
+      "metropolis"
+    ]
+  },
+  {
+    "titulo": "Ascendiendo a Sewell en dos escaleras",
+    "fecha": "2005-03-15 16:07:12",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "Sewell"
+    ]
+  },
+  {
+    "titulo": "Ferias libres: espacios residuales de soberanía popular",
+    "fecha": "2004-12-27 21:50:25",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "ferias",
+      "ferias libres",
+      "popular"
+    ]
+  },
+  {
+    "titulo": "Santiago en más de 100 palabras",
+    "fecha": "2004-12-15 18:47:52",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "literatura",
+      "metro",
+      "santiago",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "De mitos y espejos",
+    "fecha": "2005-02-25 22:14:12",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "ciudad",
+      "santiago",
+      "suburbio"
+    ]
+  },
+  {
+    "titulo": "Número 005",
+    "fecha": "2005-12-06 23:07:49",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Número 004",
+    "fecha": "2005-09-06 23:08:33",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Número 003",
+    "fecha": "2005-06-06 23:11:23",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "La ficcionalización del territorio ",
+    "fecha": "2005-09-07 19:50:10",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "significados urbanos",
+      "territorio"
+    ]
+  },
+  {
+    "titulo": "Drive-by-shooting: Filmando Detroit ",
+    "fecha": "2005-09-07 19:53:22",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine documental",
+      "crisis urbana",
+      "Detroit"
+    ]
+  },
+  {
+    "titulo": "Ciudades \"periféricas\" como arenas culturales",
+    "fecha": "2005-06-07 23:52:18",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "ciudad",
+      "periferia"
+    ]
+  },
+  {
+    "titulo": "Interacción entre cine y arquitectura",
+    "fecha": "2005-06-06 20:20:48",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "cine",
+      "Vanguardia"
+    ]
+  },
+  {
+    "titulo": "Informe sobre la construcción de situaciones",
+    "fecha": "2005-12-07 20:18:15",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Espectáculo",
+      "Paris",
+      "Situacionismo",
+      "Vanguardia"
+    ]
+  },
+  {
+    "titulo": "El modelo actual de ciudad fronteriza mexicana",
+    "fecha": "2005-09-07 22:52:52",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "comunidades cerradas",
+      "frontera",
+      "identidad",
+      "méxico",
+      "urbanismo yuxtapuesto"
+    ]
+  },
+  {
+    "titulo": "La metrópolis y la vida mental",
+    "fecha": "2005-09-07 23:59:01",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "sensorial",
+      "sociología urbana",
+      "vida urbana"
+    ]
+  },
+  {
+    "titulo": "Operaciones Instantáneas",
+    "fecha": "2005-06-06 02:55:15",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "instalaciones urbanas",
+      "obra temporal"
+    ]
+  },
+  {
+    "titulo": "Richard Morse en el espejo de América latina",
+    "fecha": "2005-06-08 12:08:02",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "La Metrópolis como cultura material",
+    "fecha": "2005-09-08 12:16:52",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cultura",
+      "metropolis"
+    ]
+  },
+  {
+    "titulo": "Arte y utopía",
+    "fecha": "2005-06-20 17:09:34",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte",
+      "utopia"
+    ]
+  },
+  {
+    "titulo": "La ciudad es el mejor invento humano",
+    "fecha": "2005-06-24 15:34:59",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "antiurbanismo",
+      "geografia",
+      "suburbio"
+    ]
+  },
+  {
+    "titulo": "Uppsala: Somos suecos, no de los otros",
+    "fecha": "2005-07-11 11:20:32",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "migración",
+      "segregación residencial",
+      "Suecia",
+      "Uppsala"
+    ]
+  },
+  {
+    "titulo": "La ciudad y las alcachofas",
+    "fecha": "2005-12-05 10:26:06",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "representaciones",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Las ciudades invisibles",
+    "fecha": "2005-09-15 15:08:53",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "crónica",
+      "ilustración",
+      "italo calvino"
+    ]
+  },
+  {
+    "titulo": "Afiches urbanos: las capas de la memoria",
+    "fecha": "2005-07-04 23:59:18",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "cortázar",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "El despertar de la ciudad",
+    "fecha": "2005-10-12 13:43:00",
+    "categorias": [
+      "Editorial",
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "santiago",
+      "urbana"
+    ]
+  },
+  {
+    "titulo": "Número 006",
+    "fecha": "2006-03-06 23:06:20",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Euforia modernizadora y calidad de vida",
+    "fecha": "2005-12-08 00:15:13",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "antiurbanismo",
+      "modernizacion",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Transformaciones del espacio público en la ciudad latinoamericana",
+    "fecha": "2005-12-08 00:55:12",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "Latinoamérica",
+      "prácticas sociales"
+    ]
+  },
+  {
+    "titulo": "La construcción del gusto legítimo en el mercado de la casa",
+    "fecha": "2005-12-08 01:46:28",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "clase media",
+      "consumo",
+      "gusto"
+    ]
+  },
+  {
+    "titulo": "Conceptos para pensar lo urbano",
+    "fecha": "2006-03-08 02:12:45",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "habitus",
+      "imaginarios urbanos",
+      "representaciones sociales"
+    ]
+  },
+  {
+    "titulo": "La calle, cuna de criminales",
+    "fecha": "2006-03-08 02:34:07",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Nueva York",
+      "representaciones",
+      "violencia",
+      "vivienda social"
+    ]
+  },
+  {
+    "titulo": "Guy Debord: arte, espectáculo, sociedad",
+    "fecha": "2005-12-08 12:23:37",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Espectáculo",
+      "Situacionismo",
+      "Vanguardia"
+    ]
+  },
+  {
+    "titulo": "El hombre de la multitud",
+    "fecha": "2006-03-08 12:44:11",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "flaneur",
+      "londres",
+      "multitud",
+      "peatón"
+    ]
+  },
+  {
+    "titulo": "Edgar Allan Poe, a pesar de sí mismo",
+    "fecha": "2006-03-08 12:54:49",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "literatura"
+    ]
+  },
+  {
+    "titulo": "Ciudad Guayana, la insistente",
+    "fecha": "2006-05-10 00:18:11",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Ciudad Guayana",
+      "instantáneas",
+      "Venezuela"
+    ]
+  },
+  {
+    "titulo": "Fuego contra fuego: ciudad luz",
+    "fecha": "2006-02-08 16:16:34",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "Los Angeles"
+    ]
+  },
+  {
+    "titulo": "Violencia y literatura en las fronteras de la realidad latinoamericana",
+    "fecha": "2005-12-24 21:05:17",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "2666",
+      "bolaño",
+      "Latinoamérica",
+      "literatura",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Joselo Rangel: Ni maestro ni cura ni político",
+    "fecha": "2006-05-10 03:16:08",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciencia ficción",
+      "méxico",
+      "México DF",
+      "musica",
+      "suburbio"
+    ]
+  },
+  {
+    "titulo": "\"Chile Hoy\" y las otras convenciones paisajísticas",
+    "fecha": "2006-05-06 11:43:30",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte",
+      "chile",
+      "paisaje",
+      "representaciones"
+    ]
+  },
+  {
+    "titulo": "La cárcel y el parque",
+    "fecha": "2006-05-27 16:16:38",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "patrimonio",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "El mapa ya no es el territorio ",
+    "fecha": "2006-05-10 00:09:06",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "mapas",
+      "peatón",
+      "Viña del Mar"
+    ]
+  },
+  {
+    "titulo": "Carnavales italianos",
+    "fecha": "2006-03-06 18:08:08",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "carnaval",
+      "fiesta",
+      "Italia"
+    ]
+  },
+  {
+    "titulo": "La ciudad de los inmortales",
+    "fecha": "2006-04-26 20:50:20",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "ciudad"
+    ]
+  },
+  {
+    "titulo": "El cuento de navidad de Auggie Wren",
+    "fecha": "2006-03-02 21:29:32",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "Un estado de la mente hecho ciudad",
+    "fecha": "2006-05-27 17:01:38",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "literatura"
+    ]
+  },
+  {
+    "titulo": "Número 007",
+    "fecha": "2008-06-06 23:04:38",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Para una reseña bibliográfica de la globalización urbana",
+    "fecha": "2008-04-07 19:47:11",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad global",
+      "globalización",
+      "Latinoamérica",
+      "metropolis",
+      "urbana"
+    ]
+  },
+  {
+    "titulo": "Benjamin y Paris, de las calles a las barricadas",
+    "fecha": "2008-06-07 20:01:31",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Baudelaire",
+      "Benjamin",
+      "calle",
+      "Haussmann",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "A través de un lente oscuro",
+    "fecha": "2008-06-07 20:16:21",
+    "categorias": [
+      "Artículo",
+      "Revista",
+      "Sin categoría"
+    ],
+    "etiquetas": [
+      "archivo",
+      "escuelas urbanas",
+      "espacios de poder",
+      "fotografía",
+      "heterogeneidad"
+    ]
+  },
+  {
+    "titulo": "Andar en la ciudad",
+    "fecha": "2008-06-08 03:01:08",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "lingüística",
+      "movilidad",
+      "peatón",
+      "resistencia",
+      "vigilancia"
+    ]
+  },
+  {
+    "titulo": "Reflexiones en torno a los guetos urbanos",
+    "fecha": "2008-06-08 12:18:59",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "espacio urbano",
+      "guetos",
+      "urbana"
+    ]
+  },
+  {
+    "titulo": "Sin Peso",
+    "fecha": "2008-01-10 18:46:20",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales",
+      "Revista"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "mercado",
+      "méxico",
+      "sensorial"
+    ]
+  },
+  {
+    "titulo": "Daniel Schávelzon: la cultura de la basura ",
+    "fecha": "2008-03-10 20:17:30",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arqueología",
+      "basura",
+      "Buenos Aires",
+      "memoria",
+      "patrimonio",
+      "raza"
+    ]
+  },
+  {
+    "titulo": "Nueva York",
+    "fecha": "2008-07-10 00:06:19",
+    "categorias": [
+      "Blog",
+      "fotoensayos",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotoensayos",
+      "Nueva York",
+      "street photography",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "Les Étrangers",
+    "fecha": "2008-07-10 01:29:15",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales",
+      "Revista"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "espacio público",
+      "migrantes",
+      "naturaleza",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "Imaginando la ciudad",
+    "fecha": "2008-06-07 18:58:07",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "identidad",
+      "imaginarios urbanos"
+    ]
+  },
+  {
+    "titulo": "513 Glenroy Line",
+    "fecha": "2008-06-22 21:52:51",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "Melbourne"
+    ]
+  },
+  {
+    "titulo": "A Nueva York de idas y vueltas",
+    "fecha": "2008-07-05 20:15:14",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "En la ciudad de Sylvia",
+    "fecha": "2008-06-27 21:34:00",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "cine y ciudad",
+      "ciudad",
+      "fotografía"
+    ]
+  },
+  {
+    "titulo": "Postales Urbanas",
+    "fecha": "2008-04-07 20:28:35",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "crónica",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "El amanecer de los muertos",
+    "fecha": "2008-04-08 20:48:43",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "ciudad",
+      "mall",
+      "zombi"
+    ]
+  },
+  {
+    "titulo": "Venecia La Híbrida",
+    "fecha": "2008-06-08 20:57:56",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "crónica",
+      "venecia"
+    ]
+  },
+  {
+    "titulo": "Through a Lens Darkly",
+    "fecha": "2008-06-07 22:31:44",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "archivo",
+      "fotografía",
+      "poder",
+      "urbana"
+    ]
+  },
+  {
+    "titulo": "CHINA ANTES DEL NEON",
+    "fecha": "2008-07-08 13:08:58",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "china",
+      "ciudad"
+    ]
+  },
+  {
+    "titulo": "“Me sorprende que la gente no me tire sus cafés en la cara”",
+    "fecha": "2008-07-08 14:26:25",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "gentrificación",
+      "urbana",
+      "virtualidad"
+    ]
+  },
+  {
+    "titulo": "Número 008",
+    "fecha": "2008-12-06 23:01:43",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Sucesión étnica en Little & Big Italy",
+    "fecha": "2008-12-07 22:54:00",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "diversidad étnica",
+      "enclaves",
+      "heterogeneidad",
+      "italianidad"
+    ]
+  },
+  {
+    "titulo": "Reconfigurando lo público y lo privado en el Santiago de Pinochet",
+    "fecha": "2008-12-07 23:29:55",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "dictadura",
+      "fotografía",
+      "género",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Cómo vive la otra mitad",
+    "fecha": "2008-12-08 00:26:10",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "marginalidad",
+      "Nueva York",
+      "pobreza",
+      "sociología urbana"
+    ]
+  },
+  {
+    "titulo": "Pensando la ciudad como ciudad turística",
+    "fecha": "2008-12-10 15:35:23",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Londres",
+    "fecha": "2008-07-10 22:13:21",
+    "categorias": [
+      "Blog",
+      "fotoensayos",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotoensayos",
+      "londres",
+      "street photography"
+    ]
+  },
+  {
+    "titulo": "Bucarest",
+    "fecha": "2008-12-17 00:10:47",
+    "categorias": [
+      "Blog",
+      "fotoensayos",
+      "Revista"
+    ],
+    "etiquetas": [
+      "bucarest",
+      "fotoensayos",
+      "noche"
+    ]
+  },
+  {
+    "titulo": "Sin Título",
+    "fecha": "2008-12-17 00:21:36",
+    "categorias": [
+      "Blog",
+      "fotoensayos",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotoensayos",
+      "fotografía",
+      "Japón",
+      "kobe"
+    ]
+  },
+  {
+    "titulo": "Memoria y Metástasis",
+    "fecha": "2008-12-10 19:50:04",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "instantáneas",
+      "memoria",
+      "mercado",
+      "Persa Bío-Bío",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "A un metro",
+    "fecha": "2008-12-17 14:51:15",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "metro",
+      "movilidad",
+      "santiago",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "La calle como museo y el museo como zoológico  ",
+    "fecha": "2008-12-17 23:49:38",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "arte",
+      "arte público",
+      "México DF",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "Manifiesto Bifurcaciones",
+    "fecha": "2008-12-06 01:04:32",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "comunicación académica"
+    ]
+  },
+  {
+    "titulo": "Estampas de viaje",
+    "fecha": "2008-07-10 10:59:34",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Paris",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Moebius",
+    "fecha": "2008-12-06 17:27:37",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "cine",
+      "metro"
+    ]
+  },
+  {
+    "titulo": "Cine, ciudades, mapas",
+    "fecha": "2008-12-12 21:47:54",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "ciudad"
+    ]
+  },
+  {
+    "titulo": "Dios no lee el Mercurio",
+    "fecha": "2008-12-10 14:58:23",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte",
+      "ciudad",
+      "Intervenciones",
+      "Vanguardia"
+    ]
+  },
+  {
+    "titulo": "Murmullos Capitalinos",
+    "fecha": "2008-12-08 16:13:47",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "LOS TIEMPOS DEL TIEMPO",
+    "fecha": "2008-12-10 19:34:44",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "ciudad",
+      "memoria",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "NUESTROS CUATRO PUNTOS CARDINALES ",
+    "fecha": "2008-12-10 20:01:08",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "cultura"
+    ]
+  },
+  {
+    "titulo": "Jacob A. Riis",
+    "fecha": "2008-12-10 14:01:47",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana"
+    ]
+  },
+  {
+    "titulo": "Solo en la noche de Hong Kong",
+    "fecha": "2012-11-02 16:42:52",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Hong Kong",
+      "instantáneas",
+      "noche"
+    ]
+  },
+  {
+    "titulo": "Hans Haacke - Castillos en el aire",
+    "fecha": "2012-11-03 16:42:34",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "arte",
+      "crisis inmobiliaria",
+      "Madrid",
+      "reseña"
+    ]
+  },
+  {
+    "titulo": "'Vámonos de aquí, manito'",
+    "fecha": "2012-11-01 16:41:49",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "archivo",
+      "Ciudad Juarez",
+      "México DF",
+      "migración",
+      "novela"
+    ]
+  },
+  {
+    "titulo": "Número 009",
+    "fecha": "2009-06-06 22:41:14",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Agricultura, utopías y prácticas urbanas",
+    "fecha": "2009-06-08 00:26:52",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "agricultura urbana",
+      "antiurbanismo",
+      "utopia"
+    ]
+  },
+  {
+    "titulo": "Gordon Matta-Clark",
+    "fecha": "2009-06-08 00:51:13",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cultura visual",
+      "landscape art",
+      "representaciones sociales"
+    ]
+  },
+  {
+    "titulo": "Postales desde Roma",
+    "fecha": "2009-07-10 01:32:13",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cultura visual",
+      "estereotipos culturales",
+      "globalización",
+      "Roma"
+    ]
+  },
+  {
+    "titulo": "Teología de la ciudad",
+    "fecha": "2009-06-08 01:18:41",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "catolicismo",
+      "Jerusalén",
+      "Judaísmo",
+      "religión"
+    ]
+  },
+  {
+    "titulo": "La ciudad de Joseph Comblin",
+    "fecha": "2009-06-08 13:27:06",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "NYC Subway",
+    "fecha": "2009-07-10 17:21:43",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "metro",
+      "movilidad",
+      "Nueva York",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Yangón",
+    "fecha": "2009-07-10 17:21:43",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Asia",
+      "Birmania",
+      "instantáneas",
+      "Yangón"
+    ]
+  },
+  {
+    "titulo": "París al timo",
+    "fecha": "2009-07-10 17:21:43",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "instantáneas",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "Si las estatuas callaran",
+    "fecha": "2009-07-10 17:21:43",
+    "categorias": [
+      "Blog",
+      "instantáneas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte",
+      "Roma"
+    ]
+  },
+  {
+    "titulo": "Stattmenschen (Berlín, 2007)",
+    "fecha": "2009-07-10 17:43:36",
+    "categorias": [
+      "Blog",
+      "fotoensayos",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Berlin",
+      "fotoensayos",
+      "marketing",
+      "publicidad"
+    ]
+  },
+  {
+    "titulo": "Ciudades de Chile: Chaitén",
+    "fecha": "2009-07-10 18:00:25",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales",
+      "Revista"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "catástrofe",
+      "Chaitén",
+      "ruinas"
+    ]
+  },
+  {
+    "titulo": "Chileno Medio",
+    "fecha": "2008-12-17 23:57:07",
+    "categorias": [
+      "Blog",
+      "fotoensayos",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "clase media",
+      "fotoensayo"
+    ]
+  },
+  {
+    "titulo": "Imágenes verdaderas de una ciudad imaginaria",
+    "fecha": "2009-07-10 16:29:24",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "imaginarios urbanos",
+      "street photography"
+    ]
+  },
+  {
+    "titulo": "\"Pizza, birra, faso\"",
+    "fecha": "2009-07-04 14:06:35",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "cine",
+      "ciudad",
+      "La Plata"
+    ]
+  },
+  {
+    "titulo": "\"El Pejesapo\"",
+    "fecha": "2009-07-04 14:26:05",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "ciudad",
+      "marginalidad",
+      "otredad"
+    ]
+  },
+  {
+    "titulo": "La Nueva York de los sesenta",
+    "fecha": "2009-07-07 17:31:12",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cultura",
+      "hippies",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "Número 010",
+    "fecha": "2012-11-05 20:46:05",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Postales 2012",
+    "fecha": "2012-11-06 01:39:57",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Gardel en Buenos Aires",
+    "fecha": "2012-11-06 01:47:33",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "antropología urbana",
+      "Argentina",
+      "Buenos Aires",
+      "gentrificación",
+      "patrimonio"
+    ]
+  },
+  {
+    "titulo": "Callejón, barriada y corralón",
+    "fecha": "2012-11-09 20:00:18",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "archivo",
+      "autoconstrucción",
+      "ensayo",
+      "Lima",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "La ópera flotante",
+    "fecha": "2012-11-12 11:00:31",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "80s",
+      "migración",
+      "santiago",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "Caracoles comerciales y otras especies en vías de extinción",
+    "fecha": "2012-11-06 16:07:06",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "consumo",
+      "mall",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Décadas oscuras",
+    "fecha": "2012-11-06 16:48:37",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Mumford",
+      "naturaleza",
+      "Nueva York",
+      "parque"
+    ]
+  },
+  {
+    "titulo": "Camilo José Vergara en Bifurcaciones",
+    "fecha": "2012-11-07 21:14:52",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "breves",
+      "Detroit",
+      "extensión",
+      "fotografía",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "Mi ventana. Un breve relato largo",
+    "fecha": "2012-11-04 22:04:55",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "santiago",
+      "sentidos"
+    ]
+  },
+  {
+    "titulo": "Lagos Power Megacity",
+    "fecha": "2012-11-06 22:54:41",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "África",
+      "fotoensayos",
+      "Lagos"
+    ]
+  },
+  {
+    "titulo": "Alain Musset: desde un Mundo Aparte",
+    "fecha": "2012-11-05 17:17:35",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "América Latina",
+      "ciencia ficción",
+      "entrevista",
+      "justicia territorial"
+    ]
+  },
+  {
+    "titulo": "Un nuevo aire a los estudios de la ciudad",
+    "fecha": "2012-11-07 01:56:04",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "comunicación académica",
+      "editorial",
+      "estudios urbanos",
+      "sociología urbana"
+    ]
+  },
+  {
+    "titulo": "El mercado como oportunidad",
+    "fecha": "2012-11-08 14:21:51",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "opinión",
+      "reconstrucción",
+      "Talca",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "Desde la ciudad nerviosa",
+    "fecha": "2012-11-08 00:01:58",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Barcelona",
+      "imaginarios urbanos",
+      "representaciones"
+    ]
+  },
+  {
+    "titulo": "Transformándome en la \"Sombra\"",
+    "fecha": "2012-11-08 07:40:32",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "etnografía",
+      "metodología",
+      "movilidad",
+      "santiago",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "El espacio exterior y las ciudades",
+    "fecha": "2012-11-08 11:43:21",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Estados Unidos",
+      "raza",
+      "segregación residencial",
+      "suburbia"
+    ]
+  },
+  {
+    "titulo": "Vida y muerte de una galería de arte",
+    "fecha": "2012-11-13 22:09:48",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arte",
+      "gentrificación",
+      "mercado inmobiliario",
+      "Nueva York",
+      "opinión"
+    ]
+  },
+  {
+    "titulo": "'Consideramos a Detroit la Chiapas de Norte América'",
+    "fecha": "2012-11-14 22:58:09",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "agricultura urbana",
+      "breves",
+      "Detroit",
+      "revolución"
+    ]
+  },
+  {
+    "titulo": "San Telmo",
+    "fecha": "2012-11-15 00:07:53",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Proyecto de Tren Instantáneo ",
+    "fecha": "2012-11-15 18:54:13",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "movilidad",
+      "poesía",
+      "Puerto Montt",
+      "santiago",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "El peatón invisible",
+    "fecha": "2012-11-20 16:35:18",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "México DF",
+      "movilidad",
+      "peatón",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Camino a Gran Santiago",
+    "fecha": "2012-11-28 13:50:49",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "1960s",
+      "archivo",
+      "fotografía",
+      "metropolis",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Próxima estación, Esperanza",
+    "fecha": "2012-11-16 15:27:50",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "derecho a la ciudad",
+      "reseña",
+      "revolución",
+      "teoría"
+    ]
+  },
+  {
+    "titulo": "GentriFiction",
+    "fecha": "2012-11-19 15:34:11",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "gentrificación",
+      "Israel",
+      "memoria",
+      "Palestina",
+      "Tel Aviv"
+    ]
+  },
+  {
+    "titulo": "Por San Diego",
+    "fecha": "2012-11-21 23:47:38",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "archivo",
+      "cosmopolita",
+      "metropolis",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "No [ ha ] lugar",
+    "fecha": "2012-11-22 20:45:06",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "fotoensayos",
+      "Madrid",
+      "no lugar",
+      "noche"
+    ]
+  },
+  {
+    "titulo": "Mumbai",
+    "fecha": "2012-11-29 21:08:40",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "India",
+      "Mumbai",
+      "poesía"
+    ]
+  },
+  {
+    "titulo": "Elliot Túpac - Cerro de Pasco",
+    "fecha": "2012-11-23 17:34:44",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "arte",
+      "Cerro de Pasco",
+      "Elliot Túpac",
+      "graffiti",
+      "muralismo",
+      "Peru"
+    ]
+  },
+  {
+    "titulo": "Holguín: Rompiendo el tedio",
+    "fecha": "2012-11-26 21:34:22",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "1950s",
+      "archivo",
+      "Cuba",
+      "Holguín",
+      "rural"
+    ]
+  },
+  {
+    "titulo": "Los olores del Gran Buenos Aires",
+    "fecha": "2012-11-27 15:30:33",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "aromas",
+      "Buenos Aires",
+      "mapas cognitivos",
+      "olores",
+      "opinión"
+    ]
+  },
+  {
+    "titulo": "Huellas, umbrales y ciudades posibles",
+    "fecha": "2012-11-30 17:06:37",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "cine",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "V&D: Construyendo el gusto urbano",
+    "fecha": "2012-11-30 17:10:00",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "chile",
+      "clase",
+      "elite",
+      "gusto",
+      "medios",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "La reconstrucción como marketing urbano",
+    "fecha": "2012-12-03 15:10:39",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "catástrofe",
+      "mercado inmobiliario",
+      "reconstrucción",
+      "Talca"
+    ]
+  },
+  {
+    "titulo": "Baronesa ",
+    "fecha": "2012-12-10 17:14:25",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "condominio",
+      "Sao Paulo",
+      "sensorial",
+      "vivienda"
+    ]
+  },
+  {
+    "titulo": "Ph15: miradas de la periferia",
+    "fecha": "2012-12-07 13:30:14",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "fotografía",
+      "marginalidad",
+      "periferia"
+    ]
+  },
+  {
+    "titulo": "¿Un espacio de memoria emergente? ",
+    "fecha": "2012-12-05 12:06:06",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "África",
+      "Egipto",
+      "Medio Oriente",
+      "memorial",
+      "revolución"
+    ]
+  },
+  {
+    "titulo": "Ciudadanías Insurgentes",
+    "fecha": "2012-12-04 20:23:41",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Ciudadanía",
+      "derecho a la ciudad",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "¿Seguir cruzando los dedos?: Ñuñoa, Irarrázaval y Sabat",
+    "fecha": "2012-12-06 19:17:53",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "planificación urbana",
+      "política",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Chile 1961",
+    "fecha": "2012-12-11 21:03:58",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "metropolis",
+      "noche",
+      "pobreza",
+      "santiago",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "Patologías de la ciudad",
+    "fecha": "2012-12-12 15:37:24",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fascismo",
+      "género",
+      "Italia",
+      "naturaleza"
+    ]
+  },
+  {
+    "titulo": "Informe de vecino espectador: sobre Educación Física de Pablo Cerda",
+    "fecha": "2012-12-13 10:00:01",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "cine",
+      "reseña",
+      "San Antonio"
+    ]
+  },
+  {
+    "titulo": "Para una historia del viaje metropolitano",
+    "fecha": "2012-12-17 00:29:42",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cultura material",
+      "movilidad",
+      "transporte",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "Quiero hacer el amor con Anthony Kiedis",
+    "fecha": "2012-12-21 10:30:43",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "chile",
+      "Ciudadanía",
+      "deseo",
+      "Intervenciones",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Entre ruinas, lugares y objetos residuales",
+    "fecha": "2012-12-17 00:21:11",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Colombia",
+      "Medellín",
+      "memoria"
+    ]
+  },
+  {
+    "titulo": "La Escuela de Los Angeles y las metrópolis sudamericanas",
+    "fecha": "2012-12-17 00:28:08",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Latinoamérica",
+      "Los Angeles",
+      "sociología urbana",
+      "vida urbana"
+    ]
+  },
+  {
+    "titulo": "La inversión de la inversión: Luanda y Lisboa",
+    "fecha": "2012-12-12 21:30:02",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "África",
+      "Lisboa",
+      "Luanda",
+      "mercado inmobiliario",
+      "pobreza",
+      "post-colonialismo"
+    ]
+  },
+  {
+    "titulo": "También en este número",
+    "fecha": "2012-12-12 17:58:50",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Los aburridos festivales sin lugar",
+    "fecha": "2012-12-14 14:40:43",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "ciudades creativas",
+      "economia urbana",
+      "musica"
+    ]
+  },
+  {
+    "titulo": "Joris Ivens: Valparaíso entre la poesía y la crítica",
+    "fecha": "2012-12-17 00:19:35",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "cine documental",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "... A Valparaíso",
+    "fecha": "2012-12-17 00:25:11",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "cine documental",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "Sobre los sin-casa",
+    "fecha": "2012-12-17 00:20:17",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Bulgaria",
+      "sin-casa",
+      "socialismo",
+      "sociología urbana",
+      "Sofía"
+    ]
+  },
+  {
+    "titulo": "Número 011",
+    "fecha": "2012-12-17 00:33:43",
+    "categorias": [
+      "Números"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Los conventos de Arequipa ",
+    "fecha": "2012-12-17 16:08:22",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Arequipa",
+      "Peru",
+      "religión"
+    ]
+  },
+  {
+    "titulo": "Sobre la evaluación de la producción académica",
+    "fecha": "2012-12-17 23:57:25",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "comunicación académica"
+    ]
+  },
+  {
+    "titulo": "Todos podemos ser Elvis",
+    "fecha": "2012-12-18 17:07:47",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "cine",
+      "periferia"
+    ]
+  },
+  {
+    "titulo": "Bifurcaciones 011: Una sinopsis",
+    "fecha": "2012-12-19 11:24:34",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "6.25 mts.",
+    "fecha": "2012-12-20 17:41:59",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "migración",
+      "santiago",
+      "trabajo"
+    ]
+  },
+  {
+    "titulo": "Oscura navidad en Londres",
+    "fecha": "2012-12-24 10:43:00",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "londres",
+      "navidad",
+      "novela"
+    ]
+  },
+  {
+    "titulo": "Secretos en la ciudad",
+    "fecha": "2012-12-26 17:08:51",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "cine",
+      "Lisboa",
+      "Macao"
+    ]
+  },
+  {
+    "titulo": "El Paraíso Artificial",
+    "fecha": "2012-12-27 18:54:00",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Caracas",
+      "ocio",
+      "parque temático",
+      "Venezuela"
+    ]
+  },
+  {
+    "titulo": "De Barrancas a Pudahuel",
+    "fecha": "2013-01-02 10:00:55",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "instantáneas",
+      "musica",
+      "periferia",
+      "Pudahuel",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Indígenas urbanos",
+    "fecha": "2012-12-28 18:36:12",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "Amazonía",
+      "Colombia",
+      "indígenas",
+      "Leticia",
+      "migración"
+    ]
+  },
+  {
+    "titulo": "De farra por Chicago, 1870 - 1905",
+    "fecha": "2012-12-31 10:30:06",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "Chicago",
+      "fiesta",
+      "noche"
+    ]
+  },
+  {
+    "titulo": "Como los barones de São Paulo",
+    "fecha": "2013-01-18 12:56:41",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "metropolis",
+      "modernizacion",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "Deporte popular en el Estadio Nacional",
+    "fecha": "2013-01-03 17:50:16",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "deporte",
+      "espacio público",
+      "política",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Leticia: tensiones de una ciudad indígena",
+    "fecha": "2013-01-04 13:13:56",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Amazonía",
+      "Colombia",
+      "indígenas",
+      "Leticia",
+      "migración"
+    ]
+  },
+  {
+    "titulo": "Argentina: puzzle para a(r)mar",
+    "fecha": "2013-01-07 16:31:05",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Buenos Aires",
+      "memoria",
+      "teoría",
+      "vivienda"
+    ]
+  },
+  {
+    "titulo": "Movilidad cotidiana ",
+    "fecha": "2013-01-08 16:16:41",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "metro",
+      "movilidad",
+      "santiago",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Bahía Blanca",
+    "fecha": "2013-01-09 15:24:54",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Bahía Blanca",
+      "naturaleza",
+      "paisajismo"
+    ]
+  },
+  {
+    "titulo": "Postales Neoyorkinas",
+    "fecha": "2013-01-10 16:43:41",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "1960s",
+      "arquitectura",
+      "fotografía",
+      "metropolis",
+      "Nueva York",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "Patagonia Big Box",
+    "fecha": "2013-01-11 10:11:54",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "consumo",
+      "Patagonia",
+      "post-modernismo",
+      "Punta Arenas"
+    ]
+  },
+  {
+    "titulo": "De Cidade Tiradentes a Vila Prudente",
+    "fecha": "2013-01-16 18:55:00",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "movilidad cotidiana",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "Paisajes sonoros de los barrios de Ciudad de México",
+    "fecha": "2013-01-14 14:04:17",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "arte",
+      "méxico",
+      "México DF",
+      "sensorial"
+    ]
+  },
+  {
+    "titulo": "Ritual de la calle Ahumada",
+    "fecha": "2013-01-15 22:47:05",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "crónica",
+      "metropolis",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Libre Te Quiero",
+    "fecha": "2013-01-17 16:25:45",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "activismo",
+      "cine",
+      "Madrid",
+      "movimientos sociales",
+      "protestas"
+    ]
+  },
+  {
+    "titulo": "Callampas y pobladores en el cine",
+    "fecha": "2013-01-21 14:07:43",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "cine",
+      "movimientos sociales",
+      "santiago",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Con la barriada al centro. Viviendas al margen, 1957-1977 ",
+    "fecha": "2013-01-22 18:07:05",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "chile",
+      "cine",
+      "Concepción",
+      "movimientos sociales",
+      "santiago",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Comunidad Andalucía",
+    "fecha": "2013-01-23 13:32:15",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "identidad",
+      "santiago",
+      "segregacion",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Barrios al Sur ",
+    "fecha": "2013-01-24 17:12:25",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "planificación urbana",
+      "segregacion"
+    ]
+  },
+  {
+    "titulo": "Guatemala de Juguete",
+    "fecha": "2013-01-25 14:39:36",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Guatemala",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Santiago del '38",
+    "fecha": "2013-01-29 17:27:04",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "migración",
+      "modernizacion",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Capitalismo y limusinas",
+    "fecha": "2013-01-28 12:05:23",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "automóvil",
+      "capitalismo",
+      "cine",
+      "crisis financiera",
+      "novela"
+    ]
+  },
+  {
+    "titulo": "Martin Parr: mordaz fotografía (y conversación)",
+    "fecha": "2013-01-30 19:13:57",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "arte",
+      "fotografía",
+      "ocio",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Encarnar el suburbio",
+    "fecha": "2013-01-31 19:05:50",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "gentrificación",
+      "londres",
+      "suburbio",
+      "UK"
+    ]
+  },
+  {
+    "titulo": "Salitre significa prosperidad (1925) ",
+    "fecha": "2013-02-07 11:10:22",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "agricultura",
+      "marketing",
+      "mineria",
+      "parques",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Carnaval Paulista, 1921",
+    "fecha": "2013-02-12 13:05:27",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "carnaval",
+      "desigualdad",
+      "fiesta",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "Por qué los muros no funcionan",
+    "fecha": "2013-03-01 11:00:36",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Estados Unidos",
+      "frontera",
+      "méxico",
+      "política"
+    ]
+  },
+  {
+    "titulo": "Huellas de una multitud solitaria",
+    "fecha": "2013-03-06 11:04:20",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "fotografía",
+      "movilidad",
+      "peatón",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Por eso yo regreso a mi ciudad",
+    "fecha": "2013-03-04 11:00:38",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Cali",
+      "Colombia",
+      "narrativa",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "insomnio gaúcho",
+    "fecha": "2013-03-05 11:24:55",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "cine",
+      "Porto Alegre"
+    ]
+  },
+  {
+    "titulo": "Kabul: the war machine",
+    "fecha": "2013-03-07 10:03:27",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Afganistan",
+      "Asia",
+      "guerra",
+      "Kabul",
+      "reconstrucción"
+    ]
+  },
+  {
+    "titulo": "Un incómodo habitar",
+    "fecha": "2013-03-11 10:59:41",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Chicago",
+      "edificio",
+      "gráfica",
+      "narrativa"
+    ]
+  },
+  {
+    "titulo": "Entre Escila y Caribdis",
+    "fecha": "2013-03-13 10:50:26",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Arica",
+      "frontera",
+      "movilidad",
+      "Peru",
+      "Tacna",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Diamela Eltit: Sólo el barrio es el país",
+    "fecha": "2013-03-08 14:51:16",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "arte",
+      "literatura",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Las ciudades de Engels",
+    "fecha": "2013-03-14 17:46:24",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "desigualdad",
+      "engels",
+      "manchester",
+      "segregación residencial"
+    ]
+  },
+  {
+    "titulo": "Mega-Eventos Deportivos y la disputa público - privada",
+    "fecha": "2013-03-12 10:58:01",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "deporte",
+      "derecho a la ciudad",
+      "gentrificación",
+      "megaeventos",
+      "Río de Janeiro"
+    ]
+  },
+  {
+    "titulo": "Home sweet home",
+    "fecha": "2013-03-14 08:50:52",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "gentrificación",
+      "londres",
+      "mercado inmobiliario",
+      "vivienda social"
+    ]
+  },
+  {
+    "titulo": "Fascinación y pánico de un viajero en NY",
+    "fecha": "2013-03-15 11:02:13",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "entretenimiento",
+      "Nueva York",
+      "parque temático",
+      "viajes"
+    ]
+  },
+  {
+    "titulo": "Cien Cafés",
+    "fecha": "2013-03-18 09:06:56",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "planificación urbana"
+    ]
+  },
+  {
+    "titulo": "Incendio en el Crystal Palace (1936) ",
+    "fecha": "2013-03-19 12:52:16",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "catástrofe",
+      "ferias",
+      "londres",
+      "marketing"
+    ]
+  },
+  {
+    "titulo": "El Chile de la Unidad Popular",
+    "fecha": "2013-03-21 00:39:44",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte popular",
+      "chile",
+      "graffiti",
+      "socialismo",
+      "Urbanismo visual"
+    ]
+  },
+  {
+    "titulo": "Lo eterno es el vino   ",
+    "fecha": "2013-04-01 11:54:13",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Cerro Navia",
+      "mercado inmobiliario",
+      "periferia",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Lo familiar no es necesariamente conocido",
+    "fecha": "2013-03-25 12:17:02",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "londres",
+      "movilidad",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "El concepto de barrio y el problema de su delimitación",
+    "fecha": "2013-03-21 00:38:54",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "etnografía",
+      "políticas urbanas",
+      "sociología urbana"
+    ]
+  },
+  {
+    "titulo": "¿La porteñidad en riesgo de extinción?",
+    "fecha": "2013-03-21 00:40:20",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "asociaciones vecinales",
+      "Barrio",
+      "identidad",
+      "patrimonio"
+    ]
+  },
+  {
+    "titulo": "La ciudad como autobiografía",
+    "fecha": "2013-03-21 00:37:30",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "autobiografía",
+      "imaginarios urbanos",
+      "memoria"
+    ]
+  },
+  {
+    "titulo": "De Antonioni a Godard",
+    "fecha": "2013-03-21 00:37:57",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "cine",
+      "experiencia",
+      "Vanguardia",
+      "visualidad"
+    ]
+  },
+  {
+    "titulo": "Ludópatas urbanos cariocas",
+    "fecha": "2013-03-20 16:26:11",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "deporte",
+      "derecho a la ciudad",
+      "gentrificación",
+      "megaeventos",
+      "Río de Janeiro"
+    ]
+  },
+  {
+    "titulo": "Las grandes ciudades",
+    "fecha": "2013-03-20 22:04:12",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "clase obrera",
+      "desigualdad",
+      "inglaterra",
+      "marginalidad",
+      "segregación residencial"
+    ]
+  },
+  {
+    "titulo": "Número 012",
+    "fecha": "2013-03-21 08:15:00",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Un encuentro de actualización diaria",
+    "fecha": "2013-03-21 00:58:40",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos - 012",
+    "fecha": "2013-03-21 11:32:43",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Bifurcaciones 012: una sinópsis",
+    "fecha": "2013-03-21 15:41:14",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "Revista"
+    ]
+  },
+  {
+    "titulo": "Un suburbio africano",
+    "fecha": "2013-03-22 12:20:51",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "África",
+      "colonialismo",
+      "racismo",
+      "Rhodesia",
+      "suburbio",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "titulo": "Ciudad niña, ciudad lobo",
+    "fecha": "2013-03-26 10:26:21",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "La Plata",
+      "modernidad"
+    ]
+  },
+  {
+    "titulo": "La ciudad (fragmento)",
+    "fecha": "2013-03-27 12:18:32",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "poesía",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "The Americans (1959)",
+    "fecha": "2013-03-28 12:28:33",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Estados Unidos",
+      "fotografía",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "De delirios místicos",
+    "fecha": "2013-03-29 17:18:23",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "Israel",
+      "Jerusalén",
+      "misticismo",
+      "religión"
+    ]
+  },
+  {
+    "titulo": "Voces de la Vereda: Etnografía y Estudios de Raza (primera parte)",
+    "fecha": "2013-04-02 12:00:25",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "clase social",
+      "etnografía",
+      "metodología",
+      "Nueva York",
+      "raza"
+    ]
+  },
+  {
+    "titulo": "Voces de la Vereda: Etnografía y Estudios de Raza (segunda parte)",
+    "fecha": "2013-04-03 10:39:37",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "clase social",
+      "etnografía",
+      "metodología",
+      "Nueva York",
+      "raza"
+    ]
+  },
+  {
+    "titulo": "Ramal ",
+    "fecha": "2013-04-11 10:05:45",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "ferrocarril",
+      "movilidad",
+      "narrativa",
+      "Talca",
+      "transporte",
+      "viaje"
+    ]
+  },
+  {
+    "titulo": "Housing Problems (1935) ",
+    "fecha": "2013-04-15 10:45:16",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "documental",
+      "inglaterra",
+      "londres",
+      "vivienda social"
+    ]
+  },
+  {
+    "titulo": "Calcuta, ciudad sensual",
+    "fecha": "2013-04-16 10:30:23",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Calcuta",
+      "flaneur",
+      "India",
+      "sensorial"
+    ]
+  },
+  {
+    "titulo": "La (otra) Buenos Aires de Mafalda",
+    "fecha": "2013-04-04 19:55:49",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Buenos Aires",
+      "mafalda"
+    ]
+  },
+  {
+    "titulo": "Movilización",
+    "fecha": "2013-04-05 12:00:04",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "modernizacion",
+      "movilidad",
+      "santiago",
+      "transporte",
+      "transporte público"
+    ]
+  },
+  {
+    "titulo": "Las revueltas de Brixton (1981)",
+    "fecha": "2013-04-08 13:14:04",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "derecho a la ciudad",
+      "londres",
+      "protestas",
+      "revueltas",
+      "saqueos"
+    ]
+  },
+  {
+    "titulo": "Mirones",
+    "fecha": "2013-04-09 11:26:45",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "marchas",
+      "movimientos sociales",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Contra la miopía cultural en Arica",
+    "fecha": "2013-04-10 00:58:27",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Arica",
+      "cultura",
+      "política"
+    ]
+  },
+  {
+    "titulo": "Suite Matanzas",
+    "fecha": "2013-04-17 10:51:48",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "frontera",
+      "marginalidad",
+      "medio ambiente",
+      "periferia"
+    ]
+  },
+  {
+    "titulo": "Raya",
+    "fecha": "2013-04-18 12:49:14",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arte",
+      "graffiti",
+      "Talca",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "En donde los árboles crecen",
+    "fecha": "2013-04-23 16:09:31",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "expansión urbana",
+      "futuro",
+      "londres",
+      "naturaleza"
+    ]
+  },
+  {
+    "titulo": "La cultura literaria con o sin feria",
+    "fecha": "2013-04-22 14:45:38",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "ferias",
+      "Peru",
+      "política cultural",
+      "Trujillo"
+    ]
+  },
+  {
+    "titulo": "Berlin antes de la construcción del muro ",
+    "fecha": "2013-04-24 17:53:28",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Berlin",
+      "fotografía",
+      "guerra fría"
+    ]
+  },
+  {
+    "titulo": "La vuelta de la erradicación de la favela",
+    "fecha": "2013-04-25 17:17:45",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Río de Janeiro",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "La fogata en la ballena",
+    "fecha": "2013-04-29 21:38:00",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Concepción",
+      "mercado",
+      "mercado inmobiliario",
+      "patrimonio"
+    ]
+  },
+  {
+    "titulo": "Copar la calle",
+    "fecha": "2013-04-30 19:06:40",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "calle",
+      "conmemoración",
+      "protesta"
+    ]
+  },
+  {
+    "titulo": "Esperanza en la ciudad de México",
+    "fecha": "2013-05-02 18:38:03",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "campesinos",
+      "México DF",
+      "migración"
+    ]
+  },
+  {
+    "titulo": "En el santuario sufí",
+    "fecha": "2013-05-06 12:04:37",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "India",
+      "mujer",
+      "Nueva Delhi",
+      "religión",
+      "templo"
+    ]
+  },
+  {
+    "titulo": "Arquitectos desmemoriados",
+    "fecha": "2013-05-07 12:30:09",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "memoria",
+      "parques",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "En la mina",
+    "fecha": "2013-05-08 16:55:07",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "basura",
+      "Guatemala",
+      "informalidad",
+      "nimby",
+      "trabajo"
+    ]
+  },
+  {
+    "titulo": "Las sacudidas de un mal sueño o un sueño con turbulencias",
+    "fecha": "2013-05-09 15:15:36",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "Estados Unidos",
+      "migrantes",
+      "narrativa"
+    ]
+  },
+  {
+    "titulo": "Una carrera de vochos por México DF",
+    "fecha": "2013-05-13 17:24:54",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "automóvil",
+      "documental",
+      "méxico",
+      "México DF",
+      "movilidad",
+      "transporte",
+      "video"
+    ]
+  },
+  {
+    "titulo": "Cuatro poblaciones en el Gran Santiago",
+    "fecha": "2013-05-14 19:25:13",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "América Latina",
+      "marginalidad",
+      "santiago",
+      "urbanización",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Like a weapon, like a camera",
+    "fecha": "2013-06-10 10:33:44",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Beirut",
+      "guerra",
+      "identidad",
+      "Líbano",
+      "Medio Oriente",
+      "reconstrucción"
+    ]
+  },
+  {
+    "titulo": "De crisis urbana: Valdivia 1960",
+    "fecha": "2013-05-22 11:00:29",
+    "categorias": [
+      "archivo"
+    ],
+    "etiquetas": [
+      "crisis",
+      "reconstrucción",
+      "terremoto",
+      "Valdivia"
+    ]
+  },
+  {
+    "titulo": "La compensación estética",
+    "fecha": "2013-06-11 12:12:29",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "arte",
+      "contaminación",
+      "pobreza",
+      "revolución industrial"
+    ]
+  },
+  {
+    "titulo": "La ciudad en el cine (y viceversa)",
+    "fecha": "2013-05-29 10:22:55",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "cine"
+    ]
+  },
+  {
+    "titulo": "Orden y Progreso: ¿para quién?",
+    "fecha": "2013-06-17 17:34:58",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "movimientos sociales",
+      "policía",
+      "protesta",
+      "Sao Paulo",
+      "transporte público"
+    ]
+  },
+  {
+    "titulo": "Entre cinéfilos, especuladores y el 'gran público'",
+    "fecha": "2013-06-24 10:45:18",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "cine",
+      "economias creativas",
+      "narrativa"
+    ]
+  },
+  {
+    "titulo": "Aviso de incendio: sobre las protestas en Brasil",
+    "fecha": "2013-06-28 01:42:04",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "derecho a la ciudad",
+      "movimientos sociales",
+      "política",
+      "protesta"
+    ]
+  },
+  {
+    "titulo": "Imágenes indiscernibles",
+    "fecha": "2013-07-17 11:50:34",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte",
+      "audiovisual",
+      "Buenos Aires",
+      "cine",
+      "narrativa",
+      "sensorial"
+    ]
+  },
+  {
+    "titulo": "El mall y el consumo como dislocaciones conceptuales",
+    "fecha": "2013-07-17 11:50:37",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "consumo",
+      "mall",
+      "sociología urbana"
+    ]
+  },
+  {
+    "titulo": "La ciudad resignificada",
+    "fecha": "2013-07-17 11:50:25",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "arquitectura",
+      "arte",
+      "Buenos Aires"
+    ]
+  },
+  {
+    "titulo": "Escuela Dominical",
+    "fecha": "2013-07-02 09:54:10",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "educación",
+      "India",
+      "infancia",
+      "Nueva Delhi"
+    ]
+  },
+  {
+    "titulo": "Los arquitectos y la falta de memoria",
+    "fecha": "2013-07-17 11:50:29",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "memoria",
+      "poder",
+      "proyecto",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "Martin M. Oesterheld: la ciudad de las promesas fallidas",
+    "fecha": "2013-07-04 19:22:18",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "cine",
+      "ocio",
+      "periferia",
+      "utopia",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Iquique, puerto salitrero",
+    "fecha": "2013-07-10 16:17:06",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Iquique",
+      "migración",
+      "mineria",
+      "narrativa",
+      "noche",
+      "puerto"
+    ]
+  },
+  {
+    "titulo": "Con la universidad tatuada en la piel",
+    "fecha": "2013-07-15 12:50:42",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Concepción",
+      "educación"
+    ]
+  },
+  {
+    "titulo": "París, capital del siglo XIX",
+    "fecha": "2013-07-17 11:48:46",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Baudelaire",
+      "Benjamin",
+      "flaneur",
+      "Haussmann",
+      "modernidad",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "Street photography, imágenes de ciudad y las trampas de la representación",
+    "fecha": "2013-07-17 11:48:41",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "archivo",
+      "etnografía",
+      "fotografía",
+      "imaginarios urbanos"
+    ]
+  },
+  {
+    "titulo": "Apuntes para una sociología del marketing y su relación con la ciudad",
+    "fecha": "2013-07-17 11:51:52",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "consumo",
+      "marketing",
+      "mercado inmobiliario",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Número 013",
+    "fecha": "2013-07-17 12:16:18",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -013",
+    "fecha": "2013-07-17 11:50:55",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "El abc del caminar correcto por la ciudad",
+    "fecha": "2013-07-19 14:08:37",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "automóvil",
+      "documental",
+      "metropolis",
+      "movilidad",
+      "peatón",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Introducción a Santiago",
+    "fecha": "2013-07-24 00:52:34",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "crónica",
+      "dictadura",
+      "poesía",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "High Rise",
+    "fecha": "2013-07-26 10:25:10",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "edificio",
+      "Europa",
+      "vivienda"
+    ]
+  },
+  {
+    "titulo": "Extraños en la ciudad",
+    "fecha": "2013-09-03 01:25:06",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "heterogeneidad",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Ausencia, Presencia",
+    "fecha": "2013-08-14 12:31:01",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "fotografía",
+      "santiago",
+      "vivienda"
+    ]
+  },
+  {
+    "titulo": "Reducto comanche en Santiago  ",
+    "fecha": "2013-07-31 17:31:19",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "infancia",
+      "ocio",
+      "parque temático",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Una postal desde Erenhot",
+    "fecha": "2013-08-06 16:14:35",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "china",
+      "erenhot",
+      "frontera",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Ciclistas desnudos",
+    "fecha": "2013-08-12 11:41:00",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "ciclismo",
+      "derecho a la ciudad",
+      "movilidad",
+      "movimientos sociales",
+      "protestas",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Aguafuertes Cariocas",
+    "fecha": "2013-08-16 14:46:47",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "crónica",
+      "literatura",
+      "Río de Janeiro"
+    ]
+  },
+  {
+    "titulo": "Los límites de la representación social contrastada",
+    "fecha": "2013-08-22 12:34:02",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "cine",
+      "desigualdad",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Desvalorización de la escultura pública",
+    "fecha": "2013-09-04 19:38:10",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arte público",
+      "dictadura",
+      "memoria",
+      "santiago",
+      "Unidad Popular"
+    ]
+  },
+  {
+    "titulo": "Mujeres saudíes solteras",
+    "fecha": "2013-09-16 10:53:59",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Arabia Saudita",
+      "migrantes",
+      "mujer",
+      "Reino Unido"
+    ]
+  },
+  {
+    "titulo": "Confesiones",
+    "fecha": "2013-09-25 16:25:42",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "poesía"
+    ]
+  },
+  {
+    "titulo": "El Parque O’Higgins y la persistencia de la Pampilla",
+    "fecha": "2013-09-19 13:09:35",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "chile",
+      "fiesta",
+      "parque",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Nelson Garrido: violencia y vida cotidiana en Caracas",
+    "fecha": "2013-10-10 18:27:22",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "arte",
+      "Caracas",
+      "fotografía",
+      "Venezuela",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "A poem is a city",
+    "fecha": "2013-10-07 23:17:55",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "literatura",
+      "movilidad",
+      "poesía",
+      "Talca"
+    ]
+  },
+  {
+    "titulo": "Sueños panamericanos fallidos",
+    "fecha": "2013-10-11 16:50:40",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "deporte",
+      "marketing",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos - 011",
+    "fecha": "2013-10-25 23:13:10",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos - 010",
+    "fecha": "2013-10-25 23:11:17",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Quito Desarmado",
+    "fecha": "2013-10-15 01:02:17",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Ecuador",
+      "patrimonio",
+      "viajes"
+    ]
+  },
+  {
+    "titulo": "El arte en los límites de la representación",
+    "fecha": "2013-10-15 13:10:02",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "arte",
+      "Buenos Aires",
+      "derechos humanos",
+      "dictadura",
+      "memoria"
+    ]
+  },
+  {
+    "titulo": "Memoria y espacio",
+    "fecha": "2013-10-15 13:15:58",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "estudios urbanos",
+      "memoria",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "La ciudad como espacio de resistencia política y poética en tres poemas de Carmen Berenguer",
+    "fecha": "2013-10-16 00:43:34",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "berenguer",
+      "dictadura",
+      "género",
+      "imaginarios urbanos",
+      "poesía",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Santiago de Chile visto a través de espejos negros",
+    "fecha": "2013-10-15 23:59:51",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "memoria",
+      "santiago",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Tres maneras de explicar la presencia de graderías antiguas en un Estadio remodelado",
+    "fecha": "2013-10-16 13:15:27",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "historia urbana",
+      "memoria",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Número 014",
+    "fecha": "2013-10-16 13:23:49",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "“Ahora los vecinos van perdiendo el temor”",
+    "fecha": "2013-10-16 16:14:10",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Buenos Aires",
+      "memoria",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Objetos de violencia, espacios afectivos, zonas de ruina",
+    "fecha": "2013-10-18 12:47:14",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Chipre",
+      "etnografía",
+      "guerra",
+      "memoria",
+      "ruinas"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -014",
+    "fecha": "2013-10-18 12:48:14",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Disparando (a) la realidad",
+    "fecha": "2013-10-25 17:05:28",
+    "categorias": [
+      "Blog",
+      "entrevistas",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad",
+      "graffiti",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "Lugares de consciencia en São Paulo",
+    "fecha": "2013-10-21 01:43:08",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "memoria",
+      "patrimonio",
+      "política",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "A través de Europa en un Trabant",
+    "fecha": "2013-10-24 01:23:47",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Europa del Este",
+      "fotografía",
+      "guerra fría",
+      "viajes"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -001",
+    "fecha": "2013-10-26 03:38:19",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista",
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -002",
+    "fecha": "2013-10-26 10:31:57",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -003",
+    "fecha": "2013-10-27 14:02:53",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -004",
+    "fecha": "2013-10-27 20:39:06",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -005",
+    "fecha": "2013-10-27 21:48:31",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "siete postales",
+    "fecha": "2013-11-08 12:13:27",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "Buenos Aires",
+      "narrativa",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "Los recién llegados",
+    "fecha": "2013-11-28 10:58:32",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "migrantes",
+      "post-colonialismo",
+      "Reino Unido"
+    ]
+  },
+  {
+    "titulo": "Metamorfosis íntima: el cine y el espacio arquitectónico",
+    "fecha": "2013-10-29 13:45:30",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "cine"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -006",
+    "fecha": "2013-10-28 09:23:11",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Bifurcaciones 014: una sinopsis",
+    "fecha": "2013-10-30 13:34:04",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "Revista",
+      "sinopsis"
+    ]
+  },
+  {
+    "titulo": "Yo también tengo una historia sobre Lou Reed",
+    "fecha": "2013-11-04 01:48:12",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "musica",
+      "Nueva York",
+      "rock"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -007",
+    "fecha": "2013-11-04 14:42:28",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Sobre la marca Santiago",
+    "fecha": "2013-11-14 10:30:17",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "diseño",
+      "marketing urbano",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "La construcción de un logo para una ciudad",
+    "fecha": "2013-11-14 10:30:47",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "diseño",
+      "marketing urbano",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Tina Modotti, Madrid y la guerra civil española ",
+    "fecha": "2013-11-20 18:33:05",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "guerra",
+      "Madrid",
+      "narrativa",
+      "revolución"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -008",
+    "fecha": "2013-11-22 23:15:19",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Las obsesiones urbanas de Neil Blomkamp",
+    "fecha": "2013-11-25 01:09:47",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "cine",
+      "Los Angeles",
+      "marginalidad",
+      "segregacion",
+      "Sudáfrica"
+    ]
+  },
+  {
+    "titulo": "Utopía y arquitectura: la ruina y las Escuelas Nacionales de Arte de La Habana",
+    "fecha": "2013-12-03 18:22:33",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "arte",
+      "cine",
+      "Cuba",
+      "memoria",
+      "política",
+      "ruinas"
+    ]
+  },
+  {
+    "titulo": "SuperBarrio al rescate",
+    "fecha": "2013-12-05 16:21:50",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "activismo",
+      "México DF",
+      "protesta"
+    ]
+  },
+  {
+    "titulo": "Dones federales",
+    "fecha": "2013-12-11 13:04:29",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "política",
+      "saqueos",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Saqueos",
+    "fecha": "2013-12-13 10:58:42",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Río de Janeiro",
+      "Sao Paulo",
+      "saqueos",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "¿Y dónde está mi casa?",
+    "fecha": "2013-12-17 19:42:35",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "Barcelona",
+      "España",
+      "vivienda social"
+    ]
+  },
+  {
+    "titulo": "Urbe",
+    "fecha": "2013-12-19 20:02:10",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "clase obrera",
+      "industria",
+      "México DF",
+      "poesía"
+    ]
+  },
+  {
+    "titulo": "También en este número",
+    "fecha": "2013-12-27 14:07:36",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "También en este número",
+    "fecha": "2013-12-27 14:41:57",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista",
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "La torre Eiffel",
+    "fecha": "2013-12-31 16:02:16",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "Barthes",
+      "literatura",
+      "Paris",
+      "semiótica urbana",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Imágenes de la ciudad en Blade Runner",
+    "fecha": "2013-12-31 16:15:42",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciencia ficción",
+      "Los Angeles",
+      "posmodernidad",
+      "utopia"
+    ]
+  },
+  {
+    "titulo": "También en este número",
+    "fecha": "2013-12-27 14:47:41",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "También en este número",
+    "fecha": "2013-12-27 14:53:36",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Experiencias de viaje en Transantiago",
+    "fecha": "2013-12-31 16:15:36",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "imaginarios urbanos",
+      "movilidad",
+      "santiago",
+      "transporte",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "Túnez, revolución y ciudad",
+    "fecha": "2013-12-30 12:07:30",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "África",
+      "Mundo Árabe",
+      "política",
+      "revolución",
+      "Tunez"
+    ]
+  },
+  {
+    "titulo": "Componer, habitar, subjetivar",
+    "fecha": "2013-12-31 16:28:08",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "antropología urbana",
+      "ciudad",
+      "etnografía",
+      "teoría"
+    ]
+  },
+  {
+    "titulo": "La villa y los territorios discursivos de la exclusión",
+    "fecha": "2013-12-31 17:16:16",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "marginalidad",
+      "narrativa",
+      "periferia",
+      "Rosario",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "\"Escrito en la banqueta\": archivo de memoria visual",
+    "fecha": "2013-12-31 16:11:24",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "género",
+      "méxico",
+      "México DF",
+      "movilidad",
+      "transporte",
+      "vida cotidiana",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Número 015",
+    "fecha": "2013-12-31 16:25:24",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -015",
+    "fecha": "2013-12-31 16:52:08",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Otros materiales del número 009",
+    "fecha": "2013-12-31 17:58:34",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -009",
+    "fecha": "2014-01-02 12:12:47",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Por un Museo Chileno del Terremoto",
+    "fecha": "2014-01-03 01:22:29",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "museo",
+      "ruina",
+      "Talca",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "Estados Unidos no es una tierra joven",
+    "fecha": "2014-01-03 13:03:36",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "narrativa"
+    ]
+  },
+  {
+    "titulo": "La tenue frontera, campos de continuidad",
+    "fecha": "2014-01-07 16:23:33",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "Georgia",
+      "rural"
+    ]
+  },
+  {
+    "titulo": "Mirar el pasado, mejorar el diseño urbano",
+    "fecha": "2014-01-14 19:44:39",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "Buenos Aires",
+      "planificación urbana",
+      "vivienda popular"
+    ]
+  },
+  {
+    "titulo": "Vamos pa'rriba en Broadway",
+    "fecha": "2014-01-21 17:10:05",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "densidad",
+      "ilustración",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "Mercado a cuatro calles ",
+    "fecha": "2014-01-27 19:22:11",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "mercado",
+      "reconstrucción",
+      "Talca",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "\"Buenos Aires\", por David José Kohon",
+    "fecha": "2014-01-30 17:05:46",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "cine",
+      "marginalidad",
+      "periferia"
+    ]
+  },
+  {
+    "titulo": "Casas para todos ",
+    "fecha": "2014-03-04 18:24:39",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "cine",
+      "crisis inmobiliaria",
+      "España",
+      "ruinas",
+      "vivienda"
+    ]
+  },
+  {
+    "titulo": "La ciudad infierno de Bolaño",
+    "fecha": "2014-03-20 11:22:06",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "bolaño",
+      "Ciudad Juarez",
+      "méxico"
+    ]
+  },
+  {
+    "titulo": "Se busca colaboradores para fotografiar la ciudad",
+    "fecha": "2014-04-17 18:58:20",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "fotografia urbana",
+      "Talca"
+    ]
+  },
+  {
+    "titulo": "La ciudad de los titerotes",
+    "fecha": "2014-03-28 10:00:14",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "ciencia ficción",
+      "flaneur",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "¡La imaginación (espacial) al poder!",
+    "fecha": "2014-04-14 11:48:02",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "espacio público",
+      "estado",
+      "planificación urbana",
+      "poder",
+      "proyecto"
+    ]
+  },
+  {
+    "titulo": "Los grupos urbanos marginados",
+    "fecha": "2014-04-14 11:50:05",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "marginalidad",
+      "pobres urbanos",
+      "santiago de chile",
+      "segregacion"
+    ]
+  },
+  {
+    "titulo": "Dinámica de la movilidad urbana en el corredor sudoeste de la RMBA",
+    "fecha": "2014-04-14 11:48:18",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Buenos Aires",
+      "movilidad",
+      "redes",
+      "segregacion",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Paisajes sensoriales",
+    "fecha": "2014-04-14 11:50:09",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "asentamientos precarios",
+      "cape town",
+      "identidad",
+      "mapas cognitivos",
+      "urbanismo sensorial"
+    ]
+  },
+  {
+    "titulo": "Duelo, narrativas e interacción con los mártires a través del graffiti de El Cairo",
+    "fecha": "2014-04-14 11:48:06",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arte público",
+      "El Cairo",
+      "espacio público",
+      "graffiti",
+      "revolución"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -016",
+    "fecha": "2014-04-14 13:47:30",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Número 016",
+    "fecha": "2014-04-17 14:26:21",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Valparaíso patrimonio urbano",
+    "fecha": "2014-04-16 10:55:20",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "patrimonio",
+      "pobreza",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "\"La última ciudad\"",
+    "fecha": "2014-05-08 01:30:35",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "27f",
+      "reconstrucción",
+      "Talca",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "Manifiesto futurista",
+    "fecha": "2014-05-13 15:31:11",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "futurismo",
+      "metropolis",
+      "Vanguardia",
+      "vida urbana"
+    ]
+  },
+  {
+    "titulo": "Prismas urbanos",
+    "fecha": "2014-05-15 11:36:29",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana",
+      "londres",
+      "migración",
+      "migrantes"
+    ]
+  },
+  {
+    "titulo": "Community Growth: Crisis and Challenge",
+    "fecha": "2014-05-20 23:44:54",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "Estados Unidos",
+      "sprawl",
+      "suburbio"
+    ]
+  },
+  {
+    "titulo": "La ciudad salvaje",
+    "fecha": "2014-05-22 16:03:08",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "evangélicos",
+      "religión"
+    ]
+  },
+  {
+    "titulo": "Reverso: Ruina, Memoria y Renacimiento",
+    "fecha": "2014-05-28 17:06:53",
+    "categorias": [
+      "Blog",
+      "reseñas",
+      "Sin categoría"
+    ],
+    "etiquetas": [
+      "memoria",
+      "ruina",
+      "Talca",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "El patrimonio somos las comunidades",
+    "fecha": "2014-05-26 10:18:47",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "chile",
+      "movimientos sociales",
+      "patrimonio"
+    ]
+  },
+  {
+    "titulo": "\"Reverso\": Ruins, Memory and Reconstruction",
+    "fecha": "2014-05-28 17:18:20",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "memoria",
+      "ruina",
+      "Talca",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "Congreso Internacional \"Urbano, No Metropolitano\"",
+    "fecha": "2014-08-06 13:46:21",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "ciudades intermedias"
+    ]
+  },
+  {
+    "titulo": "Visiones de Lagos",
+    "fecha": "2014-06-16 01:02:57",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "asentamientos precarios",
+      "cine y ciudad",
+      "Lagos",
+      "marginalidad",
+      "Nigeria",
+      "Nollywood",
+      "pobres urbanos",
+      "Urbanismo visual"
+    ]
+  },
+  {
+    "titulo": "Ciudad tomada y ciudad ausente",
+    "fecha": "2014-06-16 13:09:50",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cortázar",
+      "estética",
+      "Latinoamérica",
+      "literatura"
+    ]
+  },
+  {
+    "titulo": "Sobre el International Urban Photography Summer School",
+    "fecha": "2014-06-03 14:10:09",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana"
+    ]
+  },
+  {
+    "titulo": "Sobre fotografía en la calle",
+    "fecha": "2014-06-09 18:28:00",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana",
+      "londres"
+    ]
+  },
+  {
+    "titulo": "Paisaje sonoro de ciudades",
+    "fecha": "2014-06-14 10:22:27",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Brasil",
+      "brasilia",
+      "naturaleza",
+      "paisaje sonoro",
+      "sonido urbano"
+    ]
+  },
+  {
+    "titulo": "Ciudad, apocalipsis y ciencia-ficción",
+    "fecha": "2014-06-14 20:26:16",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciencia ficción",
+      "cine",
+      "Cómic",
+      "imaginarios urbanos",
+      "literatura",
+      "Nueva York",
+      "Paris",
+      "ruinas"
+    ]
+  },
+  {
+    "titulo": "Instantes de ciudad",
+    "fecha": "2014-06-14 19:45:14",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "crónica",
+      "poesía",
+      "vida urbana"
+    ]
+  },
+  {
+    "titulo": "Carne y piedra",
+    "fecha": "2014-06-24 23:59:12",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana",
+      "sergio larraín"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -017",
+    "fecha": "2014-06-16 13:32:44",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "\"Nadie es como nosotros\"",
+    "fecha": "2014-06-17 11:04:20",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "balneario",
+      "Brasil",
+      "historia urbana",
+      "identidad",
+      "Río de Janeiro",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Número 017",
+    "fecha": "2014-07-20 20:44:36",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Apuntes de camino desde la carretera 5 Sur",
+    "fecha": "2014-06-30 16:36:48",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "carretera",
+      "distopia",
+      "naturaleza",
+      "ruina"
+    ]
+  },
+  {
+    "titulo": "Sanitizando el Metro de NY",
+    "fecha": "2014-07-15 22:56:24",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "higienismo",
+      "metro",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "Go for Gold!",
+    "fecha": "2014-07-10 23:34:59",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "Juegos Olímpicos",
+      "londres",
+      "megaeventos"
+    ]
+  },
+  {
+    "titulo": "Poema de Beirut",
+    "fecha": "2014-07-16 21:30:18",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "Beirut",
+      "El Líbano",
+      "poesía"
+    ]
+  },
+  {
+    "titulo": "De ciudades, universidades y vida urbana",
+    "fecha": "2014-07-20 20:41:34",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "anchor institutions",
+      "chile",
+      "Talca",
+      "universidad",
+      "vida urbana"
+    ]
+  },
+  {
+    "titulo": "City DNA",
+    "fecha": "2014-07-24 14:36:19",
+    "categorias": [
+      "breves"
+    ],
+    "etiquetas": [
+      "arte",
+      "londres",
+      "Madrid",
+      "milan",
+      "Nueva Delhi",
+      "Nueva York",
+      "pintura",
+      "representaciones",
+      "shanghai"
+    ]
+  },
+  {
+    "titulo": "10 años de bifurcaciones",
+    "fecha": "2014-07-22 17:51:18",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Out West",
+    "fecha": "2014-08-02 14:19:30",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "canada",
+      "rural"
+    ]
+  },
+  {
+    "titulo": "L. S. Lowry: el pintor de la industrialización",
+    "fecha": "2014-09-15 21:48:45",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "industrializacion",
+      "inglaterra",
+      "Lowry",
+      "pintura"
+    ]
+  },
+  {
+    "titulo": "Como en Santiago",
+    "fecha": "2014-08-06 14:25:55",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "provincia",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "De afuera, de las orillas",
+    "fecha": "2014-08-08 14:41:13",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "¿Qué es lo que quiero?",
+    "fecha": "2014-08-11 11:09:37",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "desigualdad",
+      "gusto",
+      "naturaleza"
+    ]
+  },
+  {
+    "titulo": "Acapulco, mina de oro en Semana Santa",
+    "fecha": "2014-09-08 21:24:19",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "acapulco",
+      "crónica",
+      "méxico"
+    ]
+  },
+  {
+    "titulo": "Ciudad, Imagen y Tiempo",
+    "fecha": "2014-08-25 16:13:32",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana",
+      "metodología"
+    ]
+  },
+  {
+    "titulo": "El fútbol-pasaje",
+    "fecha": "2014-09-03 10:24:41",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "fútbol"
+    ]
+  },
+  {
+    "titulo": "Primer Concurso de Fotografía Urbana: Chile/Provincia",
+    "fecha": "2014-09-01 13:13:11",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "fotografia urbana"
+    ]
+  },
+  {
+    "titulo": "Niños de Nueva Dehli",
+    "fecha": "2014-09-22 17:25:26",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "India",
+      "infancia",
+      "Nueva Delhi",
+      "pobreza"
+    ]
+  },
+  {
+    "titulo": "\"A Bronx Morning\" (1931)",
+    "fecha": "2014-09-25 20:12:16",
+    "categorias": [
+      "archivo",
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "documental",
+      "Nueva York",
+      "sinfonia urbana"
+    ]
+  },
+  {
+    "titulo": "La pausa del Teatro Victoria de Curicó",
+    "fecha": "2014-11-03 12:20:45",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "chile",
+      "cine",
+      "curicó",
+      "patrimonio",
+      "ruinas",
+      "teatro"
+    ]
+  },
+  {
+    "titulo": "La street photography de los '60s",
+    "fecha": "2014-10-10 13:24:27",
+    "categorias": [
+      "Blog",
+      "entrevistas"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "Nueva York",
+      "street photography"
+    ]
+  },
+  {
+    "titulo": "El sentido de lugar en el “no-lugar”",
+    "fecha": "2014-10-17 17:39:00",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "espacio social",
+      "lugar",
+      "no lugar"
+    ]
+  },
+  {
+    "titulo": "Sobre la urbanización del barrio Rodrigo Bueno",
+    "fecha": "2014-10-20 11:12:57",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Buenos Aires",
+      "erradicación",
+      "segregacion",
+      "villa"
+    ]
+  },
+  {
+    "titulo": "Congreso Internacional Urbano No-Metropolitano",
+    "fecha": "2014-11-10 14:35:47",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "ciudad intermedia"
+    ]
+  },
+  {
+    "titulo": "Ciudad Fritanga",
+    "fecha": "2014-12-05 02:07:49",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "ciudad intermedia",
+      "editorial",
+      "fritanga"
+    ]
+  },
+  {
+    "titulo": "Ariel en el suburbio",
+    "fecha": "2014-12-12 01:41:25",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "barrio cerrado",
+      "chile",
+      "empleo domestico",
+      "suburbio"
+    ]
+  },
+  {
+    "titulo": "La dimensión simbólica de los espacios urbanos",
+    "fecha": "2014-12-15 12:00:15",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "centro histórico",
+      "imaginarios urbanos",
+      "paisaje",
+      "subjetividad"
+    ]
+  },
+  {
+    "titulo": "Miradas cruzadas",
+    "fecha": "2014-12-15 12:00:07",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "América Latina",
+      "Estados Unidos",
+      "planificación urbana"
+    ]
+  },
+  {
+    "titulo": "Acta Congreso Internacional Urbano No-Metropolitano",
+    "fecha": "2014-11-14 01:05:28",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "ciudades intermedias"
+    ]
+  },
+  {
+    "titulo": "Mapas de lo público y lo privado",
+    "fecha": "2015-05-04 20:49:50",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cartografía",
+      "espacio privado",
+      "espacio público",
+      "mapa",
+      "planos",
+      "representaciones"
+    ]
+  },
+  {
+    "titulo": "Memorias colectivas del paisaje urbano",
+    "fecha": "2014-12-29 12:00:05",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "memoria",
+      "paisaje",
+      "patrimonio",
+      "planificación urbana"
+    ]
+  },
+  {
+    "titulo": "La Nueva York peatonal",
+    "fecha": "2014-12-15 12:00:19",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "automóvil",
+      "espacio público",
+      "Nueva York",
+      "peatón"
+    ]
+  },
+  {
+    "titulo": "Sobre cartografías sonoras urbanas ",
+    "fecha": "2014-12-15 12:00:36",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "El maldito 2006 porteño",
+    "fecha": "2014-12-15 23:13:42",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "mall",
+      "patrimonio",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "Marineros",
+    "fecha": "2014-12-19 17:58:20",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "chiloé",
+      "crónica"
+    ]
+  },
+  {
+    "titulo": "Los desaparecidos de la democracia argentina",
+    "fecha": "2015-01-15 01:17:47",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "desaparecidos"
+    ]
+  },
+  {
+    "titulo": "Algunas ideas sobre Piketty",
+    "fecha": "2015-01-04 13:09:10",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "capital",
+      "david harvey",
+      "geografía crítica",
+      "marx"
+    ]
+  },
+  {
+    "titulo": "La Ciudad Fritanga",
+    "fecha": "2014-12-15 12:00:48",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "ciudades intermedias",
+      "fritanga"
+    ]
+  },
+  {
+    "titulo": "Cerrado en Invierno",
+    "fecha": "2015-01-19 11:19:37",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "España",
+      "turismo"
+    ]
+  },
+  {
+    "titulo": "Tabla de Contenidos -018",
+    "fecha": "2014-12-15 12:00:50",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Número 018",
+    "fecha": "2015-03-05 12:49:20",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "A cinco años del 27F",
+    "fecha": "2015-02-27 22:17:59",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "27f",
+      "chile",
+      "patrimonio",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "Sobre un lugar que será clausurado",
+    "fecha": "2015-03-04 02:40:59",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "crónica",
+      "ruinas",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "De la ciudad a la sociedad urbana",
+    "fecha": "2014-12-15 12:00:47",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "industrializacion",
+      "lefebvre",
+      "revolución industrial",
+      "urbanismo",
+      "urbanización"
+    ]
+  },
+  {
+    "titulo": "La ciudad y las motos",
+    "fecha": "2015-03-16 12:12:51",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "América Latina",
+      "motocicletas",
+      "movilidad",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Obituario: Luis Ladrón de Guevara",
+    "fecha": "2015-03-30 12:16:10",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "industria"
+    ]
+  },
+  {
+    "titulo": "Hablemos del caso Caval, pero hagámoslo en serio",
+    "fecha": "2015-04-01 23:59:25",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "especulación inmobiliaria",
+      "normativa"
+    ]
+  },
+  {
+    "titulo": "Sobre Chicas Bondi",
+    "fecha": "2015-04-14 10:14:40",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "fotografía",
+      "fotografia urbana"
+    ]
+  },
+  {
+    "titulo": "Ídola (fragmento)",
+    "fecha": "2015-04-22 11:07:13",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "distopia",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Berlin hacia el final de la Segunda Guerra Mundial",
+    "fecha": "2015-05-05 21:19:27",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "Berlin",
+      "documental",
+      "ruinas"
+    ]
+  },
+  {
+    "titulo": "Espacio, saber y poder",
+    "fecha": "2015-06-12 09:32:31",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "control",
+      "foucault",
+      "modernidad",
+      "poder",
+      "rabinow",
+      "urbanismo"
+    ]
+  },
+  {
+    "titulo": "Descentrar el estudio de la segregación residencial",
+    "fecha": "2015-06-12 09:32:33",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "ciudad intermedia",
+      "escala",
+      "metodología",
+      "segregacion",
+      "urbanismo"
+    ]
+  },
+  {
+    "titulo": "“Decir sin hacer” o “hacer sin decir”",
+    "fecha": "2015-06-12 09:32:36",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "banlieue",
+      "discriminiación",
+      "integración",
+      "migración",
+      "políticas urbanas",
+      "raza"
+    ]
+  },
+  {
+    "titulo": "Sobre el espacio público, el urbanismo táctico y el poder de las redes sociales",
+    "fecha": "2015-05-25 14:25:27",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "Ciudadanía",
+      "derecho a la ciudad",
+      "urbanismo táctico"
+    ]
+  },
+  {
+    "titulo": "Usos y apropiaciones del espacio urbano en Santiago de Chile",
+    "fecha": "2015-06-12 09:32:23",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "alameda",
+      "espacio público",
+      "modernizacion",
+      "santiago de chile",
+      "urbanismo"
+    ]
+  },
+  {
+    "titulo": "Márgenes urbanas",
+    "fecha": "2015-06-12 09:32:29",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cultura urbana",
+      "ferias literarias",
+      "literatura",
+      "marginalidad",
+      "Sao Paulo",
+      "segregacion"
+    ]
+  },
+  {
+    "titulo": "¿Registro, creación o fuerza de cambio?",
+    "fecha": "2015-06-12 09:32:26",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "documental",
+      "estética",
+      "fotografía",
+      "representaciones",
+      "street photography",
+      "teoría crítica"
+    ]
+  },
+  {
+    "titulo": "Número 019",
+    "fecha": "2015-06-12 16:30:22",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -019",
+    "fecha": "2015-06-12 13:10:34",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Declaración pública sobre el caso Katchadjian-Kodama",
+    "fecha": "2015-06-22 17:53:05",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "borges",
+      "propiedad intelectual"
+    ]
+  },
+  {
+    "titulo": "Charlyking",
+    "fecha": "2015-06-24 22:56:41",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "belgica",
+      "bruselas",
+      "fotografía",
+      "fotografia urbana"
+    ]
+  },
+  {
+    "titulo": "De lo sagrado y lo profano en la ciudad del pos-apartheid",
+    "fecha": "2015-07-01 23:01:43",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "África",
+      "apartheid",
+      "discriminación",
+      "religión",
+      "sagrado",
+      "segregacion"
+    ]
+  },
+  {
+    "titulo": "Nocturno(s)",
+    "fecha": "2015-07-06 17:14:52",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Buenos Aires",
+      "crónica",
+      "noche"
+    ]
+  },
+  {
+    "titulo": "Japón urbano en 8-bits",
+    "fecha": "2015-08-14 01:36:40",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "Japón",
+      "tokio",
+      "vida cotidiana"
+    ]
+  },
+  {
+    "titulo": "Furtar: desde el circle pit a las calles de América Latina",
+    "fecha": "2015-11-01 23:33:53",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "hardcore",
+      "musica",
+      "punk"
+    ]
+  },
+  {
+    "titulo": "El Cairo visto por Chahine (1991)",
+    "fecha": "2015-11-06 18:08:55",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "documental",
+      "Egipto",
+      "ensayo visual"
+    ]
+  },
+  {
+    "titulo": "¿Talca, Amsterdam y Copenhague?",
+    "fecha": "2015-11-09 23:55:03",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "movilidad",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Umbral, de Victor Micoud",
+    "fecha": "2015-11-25 00:39:36",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "fotografia urbana",
+      "francia",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "El paisaje del Ghetto",
+    "fecha": "2015-12-28 17:35:23",
+    "categorias": [
+      "Colección Reserva",
+      "Revista"
+    ],
+    "etiquetas": [
+      "deterioro",
+      "Estados Unidos",
+      "fotografia urbana",
+      "ghetto"
+    ]
+  },
+  {
+    "titulo": "Inland",
+    "fecha": "2015-12-28 17:56:22",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "fotografía",
+      "londres",
+      "migración"
+    ]
+  },
+  {
+    "titulo": "La estetización del espacio y la espacialización de lo estético en Buenos Aires",
+    "fecha": "2015-12-28 17:55:37",
+    "categorias": [
+      "Artículo",
+      "Revista",
+      "Sin categoría"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "Buenos Aires",
+      "consumo",
+      "marketing urbano"
+    ]
+  },
+  {
+    "titulo": "La definición de barrio en un barrio",
+    "fecha": "2015-12-28 17:41:04",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "Colombia"
+    ]
+  },
+  {
+    "titulo": "Marginalidad urbana y posibles lecturas en Martin Scorsese",
+    "fecha": "2015-12-28 17:50:11",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "imaginarios urbanos",
+      "marginalidad"
+    ]
+  },
+  {
+    "titulo": "A propósito de las pinturas murales en Chile entre 1970 y 1990",
+    "fecha": "2015-12-28 17:54:53",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "graffiti",
+      "muralismo"
+    ]
+  },
+  {
+    "titulo": "Tabla de contenidos -020",
+    "fecha": "2015-12-28 17:37:47",
+    "categorias": [
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Número 020",
+    "fecha": "2015-12-28 17:59:56",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Presentación 20",
+    "fecha": "2015-12-28 17:37:22",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Bienvenidos al Peloponeso",
+    "fecha": "2015-12-30 23:08:25",
+    "categorias": [
+      "Blog"
+    ],
+    "etiquetas": [
+      "Argentina",
+      "federalismo",
+      "regionalizacion"
+    ]
+  },
+  {
+    "titulo": "Indiferencia",
+    "fecha": "2016-01-05 16:32:59",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "fotografia urbana",
+      "marginalidad",
+      "santiago"
+    ]
+  },
+  {
+    "titulo": "Contrapostal",
+    "fecha": "2016-03-07 10:37:03",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "documental",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "Rodrigo Salcedo, lo que no esperábamos",
+    "fecha": "2016-03-01 18:13:34",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Rodrigo Salcedo: su legado entre nosotros",
+    "fecha": "2016-03-04 19:12:43",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista"
+    ],
+    "etiquetas": [
+      "editorial",
+      "obituario"
+    ]
+  },
+  {
+    "titulo": "Siempre deja que la carretera decida",
+    "fecha": "2016-03-28 13:38:03",
+    "categorias": [
+      "Blog",
+      "fotoensayos"
+    ],
+    "etiquetas": [
+      "dubai",
+      "migrantes",
+      "peatón",
+      "peatonal"
+    ]
+  },
+  {
+    "titulo": "Valparaíso: fuera y dentro del arte contemporáneo",
+    "fecha": "2016-04-26 18:21:15",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "arte",
+      "Valparaíso"
+    ]
+  },
+  {
+    "titulo": "La trilogía urbana de Woody Allen",
+    "fecha": "2016-09-21 00:17:30",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "cine",
+      "Nueva York"
+    ]
+  },
+  {
+    "titulo": "Talca, Bogotá y Quito",
+    "fecha": "2016-05-27 15:44:58",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "ciudades intermedias",
+      "migración",
+      "migrantes"
+    ]
+  },
+  {
+    "titulo": "De las ciudades multiculturales a las ciudades de inconformes",
+    "fecha": "2016-09-21 00:22:32",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "diversidad étnica",
+      "heterogeneidad",
+      "multiculturalismo"
+    ]
+  },
+  {
+    "titulo": "Festival de la Chicha",
+    "fecha": "2016-09-21 00:21:17",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "Barrio",
+      "Colombia",
+      "indígena"
+    ]
+  },
+  {
+    "titulo": "La calle, el barrio, la ciudad",
+    "fecha": "2016-09-21 00:14:53",
+    "categorias": [
+      "Colección Reserva"
+    ],
+    "etiquetas": [
+      "etnografía",
+      "Paris"
+    ]
+  },
+  {
+    "titulo": "Aproximaciones para el estudio de las prácticas rurbanas en la ciudad intermedia chilena",
+    "fecha": "2016-09-21 00:55:49",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "no-metropolitano",
+      "rurubanidad",
+      "rururbano"
+    ]
+  },
+  {
+    "titulo": "Sustitución cultural y guetización en la ciudad",
+    "fecha": "2016-09-21 00:42:23",
+    "categorias": [
+      "Artículo",
+      "Revista"
+    ],
+    "etiquetas": [
+      "chile",
+      "diversidad étnica",
+      "migración"
+    ]
+  },
+  {
+    "titulo": "Número 021",
+    "fecha": "2016-09-26 18:48:12",
+    "categorias": [
+      "Números",
+      "Revista"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Tabla de Contenidos -021",
+    "fecha": "2016-09-21 20:38:24",
+    "categorias": [
+      "Editorial (revista)",
+      "Revista",
+      "Sin categoría"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Junkopia",
+    "fecha": "2016-10-09 20:14:01",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "«Hacia nuevos horizontes» (1940)",
+    "fecha": "2017-06-03 23:29:15",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": []
+  },
+  {
+    "titulo": "Expediente II: Los Voluntarios",
+    "fecha": "2017-09-20 17:26:11",
+    "categorias": [
+      "archivo",
+      "Blog"
+    ],
+    "etiquetas": [
+      "méxico",
+      "terremoto"
+    ]
+  },
+  {
+    "titulo": "«Ciudades sudamericanas como arenas culturales»",
+    "fecha": "2017-11-15 22:49:51",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "cultura urbana"
+    ]
+  },
+  {
+    "titulo": "En La Vereda: conversaciones sobre cultura y ciudad",
+    "fecha": "2017-11-05 17:15:20",
+    "categorias": [
+      "Editorial",
+      "Sin categoría"
+    ],
+    "etiquetas": [
+      "editorial",
+      "entrevistas",
+      "libro"
+    ]
+  },
+  {
+    "titulo": "Salcedo",
+    "fecha": "2017-11-20 18:58:46",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "barrio cerrado",
+      "consumo",
+      "estigma",
+      "gentrificación",
+      "libro",
+      "mall",
+      "vivienda social"
+    ]
+  },
+  {
+    "titulo": "[Relatos de una] Ciudad Trizada",
+    "fecha": "2018-01-12 01:27:26",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "gueto",
+      "segregacion"
+    ]
+  },
+  {
+    "titulo": "Las transgresiones de Jadue",
+    "fecha": "2018-03-12 23:52:09",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "chile",
+      "vivienda social"
+    ]
+  },
+  {
+    "titulo": "The Suburbanite (1904)",
+    "fecha": "2018-03-21 13:25:55",
+    "categorias": [
+      "Blog",
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "suburbio"
+    ]
+  },
+  {
+    "titulo": "Basura y Género",
+    "fecha": "2018-05-11 23:08:19",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "basura",
+      "desechos",
+      "diseño",
+      "género"
+    ]
+  },
+  {
+    "titulo": "A pesar de todo",
+    "fecha": "2018-07-19 00:37:10",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "dictadura",
+      "Unidad Popular"
+    ]
+  },
+  {
+    "titulo": "São Paulo ciudad-mundo",
+    "fecha": "2018-08-01 16:12:58",
+    "categorias": [
+      "Blog",
+      "reseñas"
+    ],
+    "etiquetas": [
+      "desigualdad",
+      "Sao Paulo"
+    ]
+  },
+  {
+    "titulo": "La espiral del abandono",
+    "fecha": "2018-08-06 15:56:20",
+    "categorias": [
+      "Blog",
+      "instantáneas"
+    ],
+    "etiquetas": [
+      "desindustrialización",
+      "industrializacion",
+      "ruinas",
+      "ruralidad"
+    ]
+  },
+  {
+    "titulo": "Halloween: una identidad en evolución",
+    "fecha": "2018-11-01 12:40:18",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "halloween",
+      "identidad"
+    ]
+  },
+  {
+    "titulo": "Geoficciones de Coruscant",
+    "fecha": "2018-10-02 03:35:33",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "ciencia ficción",
+      "geopolítica"
+    ]
+  },
+  {
+    "titulo": "Star Wars: un ensayo urbano-galáctico",
+    "fecha": "2018-11-11 13:23:36",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "ciencia ficción",
+      "desigualdad",
+      "editorial",
+      "geoficción",
+      "star wars"
+    ]
+  },
+  {
+    "titulo": "Tren Santiago - Valparaíso, a 160 años",
+    "fecha": "2022-06-01 13:36:32",
+    "categorias": [
+      "Blog"
+    ],
+    "etiquetas": [
+      "ferrocarril",
+      "movilidad",
+      "santiago",
+      "transporte",
+      "valparaiso"
+    ]
+  },
+  {
+    "titulo": "El Viaje Colectivo",
+    "fecha": "2018-12-19 13:40:29",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "movilidad",
+      "sudamérica",
+      "transporte",
+      "transporte público"
+    ]
+  },
+  {
+    "titulo": "Disputar la Ciudad",
+    "fecha": "2018-12-28 14:04:29",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "memoria",
+      "monumentos",
+      "violencia"
+    ]
+  },
+  {
+    "titulo": "Conocer la Ciudad",
+    "fecha": "2019-01-09 17:09:05",
+    "categorias": [
+      "Editorial"
+    ],
+    "etiquetas": [
+      "cartografía",
+      "epistemología",
+      "etnografía",
+      "métodos",
+      "paisaje sonoro",
+      "sentidos"
+    ]
+  },
+  {
+    "titulo": "8M: Los espacios, las prácticas y las protestas",
+    "fecha": "2019-03-23 15:55:55",
+    "categorias": [
+      "Blog",
+      "columnas"
+    ],
+    "etiquetas": [
+      "feminismo",
+      "género",
+      "protestas"
+    ]
+  },
+  {
+    "titulo": "Presentación de «Conocer la Ciudad»",
+    "fecha": "2019-12-26 23:59:07",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "epistemología",
+      "libro",
+      "métodos"
+    ]
+  },
+  {
+    "titulo": "Maulinos",
+    "fecha": "2020-03-16 17:12:28",
+    "categorias": [
+      "ensayos audiovisuales"
+    ],
+    "etiquetas": [
+      "audiovisual",
+      "ciudad intermedia",
+      "ciudades medias",
+      "cultura urbana",
+      "documental"
+    ]
+  },
+  {
+    "titulo": "Bif*19",
+    "fecha": "2020-04-14 15:58:47",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "charlas",
+      "evento"
+    ]
+  },
+  {
+    "titulo": "Habitar la pandemia",
+    "fecha": "2020-06-02 23:34:31",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "coronavirus",
+      "evento",
+      "pandemia"
+    ]
+  },
+  {
+    "titulo": "1er Seminario Arquitectura y Etnografía",
+    "fecha": "2020-08-12 16:50:15",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "dibujo",
+      "etnografía"
+    ]
+  },
+  {
+    "titulo": "Cartografías del Apruebo",
+    "fecha": "2020-10-28 17:02:53",
+    "categorias": [
+      "Blog",
+      "breves"
+    ],
+    "etiquetas": [
+      "cartografía",
+      "elecciones",
+      "política"
+    ]
+  },
+  {
+    "titulo": "2º Seminario Internacional Arquitectura & Etnografía",
+    "fecha": "2021-08-30 20:23:57",
+    "categorias": [
+      "Blog"
+    ],
+    "etiquetas": [
+      "arquitectura",
+      "etnografía",
+      "seminario"
+    ]
+  },
+  {
+    "titulo": "Descentrar la experiencia para explorar lo urbano",
+    "fecha": "2022-06-06 09:14:16",
+    "categorias": [
+      "Blog"
+    ],
+    "etiquetas": [
+      "ddhh",
+      "investigación",
+      "metodologías",
+      "visual"
+    ]
+  },
+  {
+    "titulo": "3er Seminario Internacional Arquitectura & Etnografía",
+    "fecha": "2022-09-22 20:59:20",
+    "categorias": [
+      "breves"
+    ],
+    "etiquetas": [
+      "eventos",
+      "seminario"
+    ]
+  }
+]
