@@ -167,6 +167,10 @@
 table{
     margin-bottom: 4rem;
 }
+thead, tbody{
+    border-style: dotted;
+    border-width: 1px;
+}
  tbody, thead, tbody tr:nth-child(2n){
     background: none;
     color: white;
