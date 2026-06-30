@@ -2,162 +2,194 @@
 <html>
 
 <head>
-    <title>p5.js</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Mozilla+Text:wght@200..700&family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/css/foundation.min.css" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="assets/app.css">
+  <title>p5.js</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Mozilla+Text:wght@200..700&family=Pixelify+Sans:wght@400..700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/css/foundation.min.css"
+    crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="assets/app.css">
 </head>
 
 <body>
 
-    <div class="grid-container">
-        <div class="grid-x">
-            <div class="cell small-12">
-                <iframe src="https://editor.p5js.org/nicolasvenegas/full/jDErIChKX"></iframe>
-            </div>
-            <div class="cell small-12">
-                <iframe src="https://editor.p5js.org/nicolasvenegas/full/djli33LFl"></iframe>
-            </div>
-        </div>
+  <div class="grid-container grid-header">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <h2>Editorial Bifurcaciones</h2>
+      </div>
     </div>
+  </div>
 
-    <div class="grid-container" id="buscador">
-        <div class="grid-x">
-            <div class="small-12 cell">
-                <h2>indexación lado cliente</h2>
-                <input type="text" id="searchInput" placeholder="Búsqueda en títulos, categorías y etiquetas..." autofocus>
-                <div id="status">Cargando datos...</div>
-                <div id="results"></div>
-            </div>
-        </div>
+  <div class="grid-container">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <ul>
+          <li>Actualización CMS</li>
+          <li>Actualización gráfica</li>
+          <li>Migración dominio SumUp y pasarelas de pago</li>
+          <li>Integración servicio Courier > BlueExpress/Starken </li>
+          <li></li>
+        </ul>
+      </div>
     </div>
+  </div>
 
-    <div class="modal-overlay" id="modalOverlay">
-        <div class="modal-window">
-            <button class="modal-close" id="modalCloseBtn">✕</button>
-            <div class="modal-content" id="modalContent"></div>
-        </div>
+  <div class="grid-container grid-header">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <h2>Archivo Bifurcaciones</h2>
+      </div>
     </div>
+  </div>
+  <div class="grid-container" id="sketchCanvas">
+    <div class="grid-x">
+      <div class="cell small-12">
+        <iframe src="https://editor.p5js.org/nicolasvenegas/full/jDErIChKX"></iframe>
+      </div>
+      <div class="cell small-12">
+        <iframe src="https://editor.p5js.org/nicolasvenegas/full/djli33LFl"></iframe>
+      </div>
+    </div>
+  </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+  <div class="grid-container" id="buscador">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <h3>Aproximación. indexación lado cliente</h3>
+        <input type="text" id="searchInput" placeholder="Búsqueda en títulos, categorías y etiquetas..." autofocus>
+        <div id="status">Cargando datos...</div>
+        <div id="results"></div>
+      </div>
+    </div>
+  </div>
 
-    <script>
-        const index = new FlexSearch.Document({
-            charset: 'latin:simple',
-            tokenize: 'full',
-            resolution: 9,
-            document: {
-                id: 'id',
-                index: ['titulo', 'categorias', 'etiquetas'],
-                store: ['id', 'titulo', 'fecha', 'categorias', 'etiquetas']
-            }
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-window">
+      <button class="modal-close" id="modalCloseBtn">✕</button>
+      <div class="modal-content" id="modalContent"></div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+
+  <script>
+    const index = new FlexSearch.Document({
+      charset: 'latin:simple',
+      tokenize: 'full',
+      resolution: 9,
+      document: {
+        id: 'id',
+        index: ['titulo', 'categorias', 'etiquetas'],
+        store: ['id', 'titulo', 'fecha', 'categorias', 'etiquetas', 'contenido']
+      }
+    });
+
+    let posts = [];
+
+    function escapeHTML(str) {
+      if (!str) return '';
+      return str.replace(/[&<>"']/g, m => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+      })[m]);
+    }
+
+    fetch('p5js/data/entradasMetadata.json')
+      .then(response => response.json())
+      .then(data => {
+        posts = data.map((post, i) => {
+          post.id = i;
+          return post;
         });
+        posts.forEach(post => index.add(post));
+        document.getElementById('status').textContent = `✅ ${posts.length} posts indexados via JSON`;
+      })
+      .catch(err => {
+        document.getElementById('status').textContent = '❌ Error al cargar los datos.';
+        console.error(err);
+      });
 
-        let posts = [];
+    function search(query) {
+      if (!query || query.length < 2) {
+        document.getElementById('results').innerHTML = '';
+        return;
+      }
+      const results = index.search(query, {
+        limit: 20,
+        suggest: true,
+        enrich: true
+      });
 
-        function escapeHTML(str) {
-            if (!str) return '';
-            return str.replace(/[&<>"']/g, m => ({
-                '&': '&amp;',
-                '<': '&lt;',
-                '>': '&gt;',
-                '"': '&quot;',
-                "'": '&#039;'
-            })[m]);
-        }
-
-        fetch('p5js/data/entradasMetadata.json')
-            .then(response => response.json())
-            .then(data => {
-                posts = data.map((post, i) => {
-                    post.id = i;
-                    return post;
-                });
-                posts.forEach(post => index.add(post));
-                document.getElementById('status').textContent = `✅ ${posts.length} posts indexados via JSON`;
-            })
-            .catch(err => {
-                document.getElementById('status').textContent = '❌ Error al cargar los datos.';
-                console.error(err);
-            });
-
-        function search(query) {
-            if (!query || query.length < 2) {
-                document.getElementById('results').innerHTML = '';
-                return;
+      const seen = new Set();
+      const combined = [];
+      results.forEach(result => {
+        result.result.forEach(item => {
+          if (!seen.has(item.id)) {
+            seen.add(item.id);
+            if (item.doc) {
+              combined.push(item.doc);
             }
-            const results = index.search(query, {
-                limit: 20,
-                suggest: true,
-                enrich: true
-            });
+          }
+        });
+      });
 
-            const seen = new Set();
-            const combined = [];
-            results.forEach(result => {
-                result.result.forEach(item => {
-                    if (!seen.has(item.id)) {
-                        seen.add(item.id);
-                        if (item.doc) {
-                            combined.push(item.doc);
-                        }
-                    }
-                });
-            });
+      renderResults(combined, query);
+    }
 
-            renderResults(combined, query);
-        }
+    function renderResults(results, query) {
+      const container = document.getElementById('results');
+      if (results.length === 0) {
+        container.innerHTML = `<div style="color:#888;">No se encontraron resultados para "<strong>${escapeHTML(query)}</strong>"</div>`;
+        return;
+      }
 
-        function renderResults(results, query) {
-            const container = document.getElementById('results');
-            if (results.length === 0) {
-                container.innerHTML = `<div style="color:#888;">No se encontraron resultados para "<strong>${escapeHTML(query)}</strong>"</div>`;
-                return;
-            }
+      let html = `<div style="color:#aaa; margin-bottom:8px;">${results.length} resultados para "<strong>${escapeHTML(query)}</strong>"</div>`;
+      results.forEach(post => {
+        const title = escapeHTML(post.titulo) || 'Sin título';
+        const date = escapeHTML(post.fecha) || '';
+        const cats = post.categorias ? escapeHTML(post.categorias.join(', ')) : '';
+        const tags = post.etiquetas && post.etiquetas.length ? escapeHTML(post.etiquetas.join(', ')) : '';
 
-            let html = `<div style="color:#aaa; margin-bottom:8px;">${results.length} resultados para "<strong>${escapeHTML(query)}</strong>"</div>`;
-            results.forEach(post => {
-                const title = escapeHTML(post.titulo) || 'Sin título';
-                const date = escapeHTML(post.fecha) || '';
-                const cats = post.categorias ? escapeHTML(post.categorias.join(', ')) : '';
-                const tags = post.etiquetas && post.etiquetas.length ? escapeHTML(post.etiquetas.join(', ')) : '';
-
-                html += `
+        html += `
                     <div class="result-item" data-id="${post.id}">
-                        <h3>${title}</h3>
+                        <h4>${title}</h4>
                         <div class="meta">${date}</div>
                         ${cats ? `<div class="tags">📂 ${cats}</div>` : ''}
                         ${tags ? `<div class="tags">🏷️ ${tags}</div>` : ''}
                     </div>
                 `;
-            });
-            container.innerHTML = html;
+      });
+      container.innerHTML = html;
 
-            document.querySelectorAll('.result-item').forEach(item => {
-                item.addEventListener('click', function() {
-                    const id = parseInt(this.dataset.id);
-                    if (isNaN(id)) return;
-                    const post = posts.find(p => p.id === id);
-                    if (post) {
-                        showSingle(post);
-                    }
-                });
-            });
-        }
+      document.querySelectorAll('.result-item').forEach(item => {
+        item.addEventListener('click', function () {
+          const id = parseInt(this.dataset.id);
+          if (isNaN(id)) return;
+          const post = posts.find(p => p.id === id);
+          if (post) {
+            showSingle(post);
+          }
+        });
+      });
+    }
 
-        function showSingle(post) {
-            const overlay = document.getElementById('modalOverlay');
-            const content = document.getElementById('modalContent');
+    function showSingle(post) {
+      const overlay = document.getElementById('modalOverlay');
+      const content = document.getElementById('modalContent');
 
-            const title = escapeHTML(post.titulo) || 'Sin título';
-            const date = escapeHTML(post.fecha) || '';
-            const cats = post.categorias ? escapeHTML(post.categorias.join(', ')) : '';
-            const tags = post.etiquetas && post.etiquetas.length ? escapeHTML(post.etiquetas.join(', ')) : '';
-            const body = post.contenido || 'No hay contenido disponible.';
+      const title = escapeHTML(post.titulo) || 'Sin título';
+      const date = escapeHTML(post.fecha) || '';
+      const cats = post.categorias ? escapeHTML(post.categorias.join(', ')) : '';
+      const tags = post.etiquetas && post.etiquetas.length ? escapeHTML(post.etiquetas.join(', ')) : '';
+      const body = post.contenido || 'No hay contenido disponible.';
 
-            let html = `
+      let html = `
                 <h1>${title}</h1>
                 <div class="meta">${date}</div>
                 <div class="tags">
@@ -169,28 +201,28 @@
                 </div>
             `;
 
-            content.innerHTML = html;
-            overlay.classList.add('active');
-            document.body.style.overflow = 'hidden';
-        }
+      content.innerHTML = html;
+      overlay.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
 
-        function closeModal() {
-            document.getElementById('modalOverlay').classList.remove('active');
-            document.body.style.overflow = '';
-        }
+    function closeModal() {
+      document.getElementById('modalOverlay').classList.remove('active');
+      document.body.style.overflow = '';
+    }
 
-        document.getElementById('modalCloseBtn').addEventListener('click', closeModal);
-        document.getElementById('modalOverlay').addEventListener('click', function(e) {
-            if (e.target === this) closeModal();
-        });
-        document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape') closeModal();
-        });
+    document.getElementById('modalCloseBtn').addEventListener('click', closeModal);
+    document.getElementById('modalOverlay').addEventListener('click', function (e) {
+      if (e.target === this) closeModal();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeModal();
+    });
 
-        document.getElementById('searchInput').addEventListener('input', function(e) {
-            search(e.target.value.trim());
-        });
-    </script>
+    document.getElementById('searchInput').addEventListener('input', function (e) {
+      search(e.target.value.trim());
+    });
+  </script>
 
 </body>
 
