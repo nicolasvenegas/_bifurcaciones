@@ -11,28 +11,95 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/css/foundation.min.css"
     crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="assets/app.css">
+  
+ 
 </head>
 
 <body>
 
+
   <div class="grid-container grid-header">
     <div class="grid-x">
-      <div class="small-12 cell">
-        <h2>Editorial Bifurcaciones</h2>
+      <div class="small-6 medium-1 cell">
+        <img src="assets/losojos_obj.webp" alt="Estudio Los Ojos">
+      </div>
+      <div class="small-6 medium-2 medium-offset-9 cell">
+        <img src="assets/bifurcaciones.png" alt="Estudio Los Ojos">
       </div>
     </div>
   </div>
+
+<!--   <div class="grid-container grid-header">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <h1>Proyecto Bifurcaciones</h1>
+      </div>
+    </div>
+  </div> -->
+
+  <div class="grid-container grid-header">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <h2>Data Proyecto Web Editorial [via JSON]</h2>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================ -->
+  <!-- SECCIÓN DE LIBROS (NUEVA) -->
+  <!-- ============================================ -->
+  <div class="grid-container">
+    <div class="grid-x grid-margin-x">
+      <div class="small-12 cell">
+        <div id="librosStats"></div>
+        <div id="librosGrid" class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+          <div class="cell text-center" style="padding: 40px; color: #7f8c8d;">Cargando libros...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br />
+
+  <!-- ============================================ -->
+  <!-- SECCIÓN DE CATEGORÍAS -->
+  <!-- ============================================ -->
+  <div class="grid-container">
+    <div class="grid-x grid-margin-x">
+      <div class="small-12 cell">
+        <h3>Categorías de Libros</h3>
+        <div id="categoriasStats"></div>
+        <div id="categoriasGrid" class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+          <div class="cell text-center" style="padding: 40px; color: #7f8c8d;">Cargando categorías...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br />
+
+  <!-- ============================================ -->
+  <!-- SECCIÓN DE AUTORES -->
+  <!-- ============================================ -->
+  <div class="grid-container">
+    <div class="grid-x grid-margin-x">
+      <div class="small-12 cell">
+        <h3>Autores</h3>
+        <div id="autoresStats"></div>
+        <div id="autoresGrid" class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+          <div class="cell text-center" style="padding: 40px; color: #7f8c8d;">Cargando autores...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br />
 
   <div class="grid-container">
     <div class="grid-x">
       <div class="small-12 cell">
-        <ul>
-          <li>Actualización CMS</li>
-          <li>Actualización gráfica</li>
-          <li>Migración dominio SumUp y pasarelas de pago</li>
-          <li>Integración servicio Courier > BlueExpress/Starken </li>
-          <li></li>
-        </ul>
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19emfvLLWSnGQtEXY7V_qbgQ0WghGhIM&ehbc=2E312F&noprof=1"
+          width="640" height="480"></iframe>
       </div>
     </div>
   </div>
@@ -40,7 +107,7 @@
   <div class="grid-container grid-header">
     <div class="grid-x">
       <div class="small-12 cell">
-        <h2>Archivo Bifurcaciones</h2>
+        <h2>Data Proyecto Archivo [via JSON]</h2>
       </div>
     </div>
   </div>
@@ -58,10 +125,75 @@
   <div class="grid-container" id="buscador">
     <div class="grid-x">
       <div class="small-12 cell">
-        <h3>Aproximación. indexación lado cliente</h3>
-        <input type="text" id="searchInput" placeholder="Búsqueda en títulos, categorías y etiquetas..." autofocus>
+        <h3>Aproximación: buscador index Archivo / lado cliente</h3>
+        <input type="text" id="searchInput" placeholder="Intenta una búsqueda de títulos, categorías y etiquetas..." autofocus>
         <div id="status">Cargando datos...</div>
         <div id="results"></div>
+      </div>
+    </div>
+  </div>
+
+    <div class="grid-container grid-header">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <h2>Presupuesto</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div class="grid-x">
+      <div class="small-12 cell">
+        <table>
+          <thead>
+            <tr>
+              <th>Descripción</th>
+              <th width="200">Horas</th>
+              <th width="150">Valor hora</th>
+              <th width="150">Valor total</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <h4>Proyecto Editorial Bifurcaciones</h4>
+                <ul>
+                  <li>Migración subdominio > dominio</li>
+                  <li>Actualización CMS: constructores, estructura y dependencias</li>
+                  <li>Actualización dispositivo gráfico</li>
+                  <li>Georeferenciación puntos de venta</li>
+                  <li>Migración dominio SumUp y pasarelas de pago</li>
+                  <li>Asesoría e integración API servicio Courier > BlueExpress/Starken </li>
+                </ul>
+              </td>
+              <td>20</td>
+              <td>x $14.000</td>
+              <td>280.000</td>
+            </tr>
+            <tr>
+              <td>
+                <h4>Proyecto Archivo Bifurcaciones</h4>
+                <ul>
+                  <li>Migración dominio > subdominio</li>
+                  <li>Diseño y desarrollo Backend & Frontend</li>
+                  <li>Diseño estructura y depuración contenido archivo en formato JSON</li>
+                  <li>Diseño dispositivo gráfico</li>
+                  <li>Implementación motor de búsqueda de texto completo, campos múltiples, emparejamiento parcial</li>
+                  <li>Debug y puesta online</li>
+                </ul>
+              </td>
+              <td>25</td>
+              <td>x $14.000</td>
+              <td>$350.000</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td style="text-align: right;">TOTAL</td>
+              <td>$630.000</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </div>
@@ -73,9 +205,12 @@
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+  <script src="assets/flexsearch.min.js"></script>
 
   <script>
+    // ============================================
+    // FLEXSEARCH - BÚSQUEDA DE POSTS
+    // ============================================
     const index = new FlexSearch.Document({
       charset: 'latin:simple',
       tokenize: 'full',
@@ -108,7 +243,7 @@
           return post;
         });
         posts.forEach(post => index.add(post));
-        document.getElementById('status').textContent = `✅ ${posts.length} posts indexados via JSON`;
+        document.getElementById('status').textContent = `✅ ${posts.length} posts indexados`;
       })
       .catch(err => {
         document.getElementById('status').textContent = '❌ Error al cargar los datos.';
@@ -221,6 +356,240 @@
 
     document.getElementById('searchInput').addEventListener('input', function (e) {
       search(e.target.value.trim());
+    });
+
+    // ============================================
+    // LIBROS - USANDO EL MISMO PROXY QUE FUNCIONA
+    // ============================================
+
+    async function cargarLibros() {
+      const grid = document.getElementById('librosGrid');
+      const stats = document.getElementById('librosStats');
+      const DOMINIO = 'editorial.bifurcaciones.cl';
+      // Usar el mismo proxy que funciona para categorías y autores
+      const PROXY_URL = 'https://corsproxy.io/?';
+      const URL_LIBROS = `${PROXY_URL}https://${DOMINIO}/wp-json/wc/store/v1/products?per_page=50`;
+
+      try {
+        grid.innerHTML = '<div class="cell text-center" style="padding: 40px; color: #7f8c8d;">Cargando libros...</div>';
+
+        const response = await fetch(URL_LIBROS);
+
+        if (!response.ok) {
+          throw new Error(`Error HTTP: ${response.status}`);
+        }
+
+        const libros = await response.json();
+
+        if (!Array.isArray(libros) || libros.length === 0) {
+          grid.innerHTML = '<div class="cell text-center" style="padding: 40px; color: #999;">No se encontraron libros</div>';
+          stats.textContent = '⚠️ No se encontraron libros';
+          return;
+        }
+
+        stats.textContent = `${libros.length} libros disponibles`;
+
+        let html = '';
+
+        libros.forEach(libro => {
+          const titulo = libro.name || 'Sin título';
+          const precio = libro.prices?.price || 'Consultar';
+          const imagen = libro.images && libro.images.length > 0 ? libro.images[0].src : '';
+          const link = libro.permalink || '';
+          const categorias = libro.categories || [];
+
+          // Formatear precio
+          const precioFormateado = precio !== 'Consultar' ? `$${parseFloat(precio).toLocaleString('es-CL')}` : 'Consultar';
+
+          html += `
+            <div class="cell">
+              <div class="libro-card">
+                ${imagen ? `<img class="libro-imagen" src="${escapeHTML(imagen)}" alt="${escapeHTML(titulo)}" loading="lazy" onerror="this.style.display='none'">` : ''}
+                <h4 class="libro-titulo">${escapeHTML(titulo)}</h4>
+                <div class="libro-precio">${escapeHTML(precioFormateado)}</div>
+                <div class="libro-categorias">
+                  ${categorias.map(cat => 
+                    `<span class="libro-categoria-tag">${escapeHTML(cat.name)}</span>`
+                  ).join('')}
+                </div>
+                
+              </div>
+            </div>
+          `;
+        });
+
+        grid.innerHTML = html;
+
+      } catch (error) {
+        console.error('Error cargando libros:', error);
+        grid.innerHTML = `
+          <div class="cell">
+            <div class="callout alert" style="margin: 20px 0;">
+              <h5>❌ Error al cargar los libros</h5>
+              <p>${escapeHTML(error.message)}</p>
+              <details>
+                <summary>💡 Posibles soluciones</summary>
+                <p style="margin-top: 10px; text-align: left;">
+                  1. Verifica que el sitio editorial.bifurcaciones.cl esté activo<br>
+                  2. Prueba recargar la página<br>
+                  3. Revisa la conexión a internet
+                </p>
+              </details>
+            </div>
+          </div>
+        `;
+        stats.textContent = '⚠️ No se pudieron cargar los libros';
+      }
+    }
+
+    // ============================================
+    // CATEGORÍAS
+    // ============================================
+
+    async function cargarCategorias() {
+      const grid = document.getElementById('categoriasGrid');
+      const stats = document.getElementById('categoriasStats');
+      const DOMINIO = 'editorial.bifurcaciones.cl';
+      const PROXY_URL = 'https://corsproxy.io/?';
+      const URL_CATEGORIAS = `${PROXY_URL}https://${DOMINIO}/wp-json/wc/store/v1/products/categories`;
+
+      try {
+        grid.innerHTML = '<div class="cell text-center" style="padding: 40px; color: #7f8c8d;">Cargando categorías...</div>';
+
+        const response = await fetch(URL_CATEGORIAS);
+
+        if (!response.ok) {
+          throw new Error(`Error HTTP: ${response.status}`);
+        }
+
+        const categorias = await response.json();
+
+        if (!Array.isArray(categorias) || categorias.length === 0) {
+          grid.innerHTML = '<div class="cell text-center" style="padding: 40px; color: #999;">No se encontraron categorías</div>';
+          stats.textContent = '⚠️ No se encontraron categorías';
+          return;
+        }
+
+        stats.textContent = `${categorias.length} categorías existentes`;
+
+        let html = '';
+
+        categorias.forEach(cat => {
+          const nombre = cat.name || 'Sin nombre';
+          const count = cat.count || 0;
+
+          html += `
+            <div class="cell">
+              <div class="categoria-card">
+                <span class="categoria-nombre">${escapeHTML(nombre)}</span>
+                <span class="categoria-count">${count} libro(s)</span>
+              </div>
+            </div>
+          `;
+        });
+
+        grid.innerHTML = html;
+
+      } catch (error) {
+        console.error('Error cargando categorías:', error);
+        grid.innerHTML = `
+          <div class="cell">
+            <div class="callout alert" style="margin: 20px 0;">
+              <h5>❌ Error al cargar las categorías</h5>
+              <p>${escapeHTML(error.message)}</p>
+              <details>
+                <summary>💡 Posibles soluciones</summary>
+                <p style="margin-top: 10px; text-align: left;">
+                  1. Verifica que el sitio editorial.bifurcaciones.cl esté activo<br>
+                  2. Prueba recargar la página<br>
+                  3. Verifica que haya productos con categorías
+                </p>
+              </details>
+            </div>
+          </div>
+        `;
+        stats.textContent = '⚠️ No se pudieron cargar las categorías';
+      }
+    }
+
+    // ============================================
+    // AUTORES
+    // ============================================
+
+    async function cargarAutores() {
+      const grid = document.getElementById('autoresGrid');
+      const stats = document.getElementById('autoresStats');
+      const DOMINIO = 'editorial.bifurcaciones.cl';
+      const PROXY_URL = 'https://corsproxy.io/?';
+      const URL_AUTORES = `${PROXY_URL}https://${DOMINIO}/wp-json/wp/v2/autor?per_page=100`;
+
+      try {
+        grid.innerHTML = '<div class="cell text-center" style="padding: 40px; color: #7f8c8d;">Cargando autores...</div>';
+
+        const response = await fetch(URL_AUTORES);
+
+        if (!response.ok) {
+          throw new Error(`Error HTTP: ${response.status}`);
+        }
+
+        const autores = await response.json();
+
+        if (!Array.isArray(autores) || autores.length === 0) {
+          grid.innerHTML = '<div class="cell text-center" style="padding: 40px; color: #999;">No se encontraron autores</div>';
+          stats.textContent = '⚠️ No se encontraron autores';
+          return;
+        }
+
+        stats.textContent = `${autores.length} autores registrados`;
+
+        let html = '';
+
+        autores.forEach(autor => {
+          const nombre = autor.title?.rendered || autor.name || 'Sin nombre';
+          const bio = (autor.content?.rendered || autor.excerpt?.rendered || '').replace(/<[^>]*>/g, '').substring(0, 150);
+          const link = autor.link || '';
+
+          html += `
+            <div class="cell">
+              <div class="card" style="height: 100%;">
+                <div class="card-section">
+                  <h4>${escapeHTML(nombre)}</h4>
+                  ${bio ? `<p class="bio">${escapeHTML(bio)}${bio.length >= 150 ? '...' : ''}</p>` : ''}
+                </div>
+              </div>
+            </div>
+          `;
+        });
+
+        grid.innerHTML = html;
+
+      } catch (error) {
+        console.error('Error cargando autores:', error);
+        grid.innerHTML = `
+          <div class="cell">
+            <div class="callout alert" style="margin: 20px 0;">
+              <h5>❌ Error al cargar los autores</h5>
+              <p>${escapeHTML(error.message)}</p>
+              <details>
+                <summary>💡 Posibles soluciones</summary>
+                <p style="margin-top: 10px; text-align: left;">
+                  1. Verifica que el sitio editorial.bifurcaciones.cl esté activo<br>
+                  2. El post type "autor" debe estar registrado en WordPress<br>
+                  3. Prueba recargar la página
+                </p>
+              </details>
+            </div>
+          </div>
+        `;
+        stats.textContent = '⚠️ No se pudieron cargar los autores';
+      }
+    }
+
+    // Cargar todo cuando la página esté lista
+    document.addEventListener('DOMContentLoaded', function () {
+      cargarLibros();
+      cargarCategorias();
+      cargarAutores();
     });
   </script>
 

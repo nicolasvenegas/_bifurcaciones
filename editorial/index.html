@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chose Commune</title>
+
+    <!-- Foundation CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.5/dist/css/foundation.min.css">
+    
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; background: #fff; color: #000; }
+        .border-bottom { border-bottom: 1px solid #000; }
+        .border-right { border-right: 1px solid #000; }
+        .p-1 { padding: 1rem; }
+        .p-2 { padding: 2rem; }
+        .text-center { text-align: center; }
+        .text-right { text-align: right; }
+        .flex { display: flex; align-items: center; }
+        .flex-between { display: flex; justify-content: space-between; align-items: center; }
+        .gap-1 { gap: 1rem; }
+        .gap-2 { gap: 2rem; }
+        .grid-item { transition: transform 0.3s; overflow: hidden; }
+        .grid-item:hover { transform: scale(1.02); }
+        .grid-item img { width: 100%; height: auto; display: block; }
+        .product-title { padding: 1rem; }
+        .product-title a { color: #000; text-decoration: none; }
+        .product-title a:hover { text-decoration: underline; }
+        .badge { font-size: 0.8rem; color: #666; }
+        .price { font-weight: bold; }
+        .btn { display: inline-block; padding: 0.5rem 1rem; background: #000; color: #fff; border: none; cursor: pointer; }
+        .btn:hover { background: #333; }
+        .footer { padding: 2rem 0; border-top: 1px solid #000; }
+        .footer a { color: #000; text-decoration: none; margin: 0 0.5rem; }
+        .footer a:hover { text-decoration: underline; }
+        /* Mobile */
+        @media (max-width: 640px) {
+            .hide-mobile { display: none !important; }
+            .show-mobile { display: block !important; }
+        }
+        @media (min-width: 641px) {
+            .show-mobile { display: none !important; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header>
+    <!-- Desktop Header -->
+    <div class="grid-x grid-padding-x align-middle border-bottom hide-mobile" style="padding: 0.5rem 1rem;">
+        <div class="cell small-6">
+            <a href="#" style="font-weight: bold; font-size: 1.2rem; color: #000; text-decoration: none;">Chose Commune</a>
+        </div>
+        <div class="cell small-6 text-right">
+            <a href="#"><img src="https://i.ibb.co/rHxWzNH/club-2ky-T.png" style="height:16px;" alt="club"></a>
+            <a href="#"><img src="https://i.ibb.co/c8m8Zy2/account-2ky-T.png" style="height:25px; margin-left:10px;" alt="account"></a>
+            <a href="#"><img src="https://i.ibb.co/ZYpGVPL/favorites-02-2ky-T.png" style="height:26px; margin-left:10px;" alt="wishlist"></a>
+            <a href="#"><img src="https://i.ibb.co/JBhWrRL/cart-2ky-T.png" style="height:25px; margin-left:10px;" alt="cart"> <span>0</span></a>
+            <a href="#" style="margin-left:10px;"><img src="https://i.ibb.co/1rzQnYJ/lang-2ky-T.png" style="height:25px;" alt="lang"> EN</a>
+        </div>
+    </div>
+
+    <!-- Mobile Header -->
+    <div class="grid-x grid-padding-x align-middle border-bottom show-mobile" style="padding: 0.5rem 1rem;">
+        <div class="cell small-4">
+            <button class="btn" style="background:transparent; color:#000; padding:0;" onclick="toggleMenu()">☰</button>
+            <div id="mobileMenu" style="display:none; position:absolute; background:#fff; z-index:100; padding:1rem; border:1px solid #000; margin-top:0.5rem;">
+                <a href="#" style="display:block; padding:0.5rem 0;">Current titles</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">Forthcoming</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">Special editions</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">Objects</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">Out of print</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">CLUB</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">About</a>
+                <a href="#" style="display:block; padding:0.5rem 0;">Contact</a>
+            </div>
+        </div>
+        <div class="cell small-4 text-center">
+            <a href="#" style="font-weight: bold; font-size: 1.1rem; color: #000; text-decoration: none;">Chose Commune</a>
+        </div>
+        <div class="cell small-4 text-right">
+            <a href="#"><img src="https://i.ibb.co/c8m8Zy2/account-2ky-T.png" style="height:22px;" alt="account"></a>
+            <a href="#"><img src="https://i.ibb.co/ZYpGVPL/favorites-02-2ky-T.png" style="height:22px; margin-left:5px;" alt="wishlist"></a>
+            <a href="#"><img src="https://i.ibb.co/JBhWrRL/cart-2ky-T.png" style="height:22px; margin-left:5px;" alt="cart"></a>
+        </div>
+    </div>
+
+    <!-- News Bar -->
+    <div class="border-bottom text-center" style="padding: 0.5rem; font-size:0.9rem; background:#f9f9f9;">
+        Come explore our website, filled with books, prints, and unique objects!
+    </div>
+
+    <!-- Sub Header -->
+    <div class="grid-x grid-padding-x align-middle border-bottom hide-mobile" style="padding: 0.5rem 1rem;">
+        <div class="cell medium-8">
+            <a href="#" style="margin-right:1.5rem; color:#000; text-decoration:none;">Current titles</a>
+            <a href="#" style="margin-right:1.5rem; color:#000; text-decoration:none;">Forthcoming</a>
+            <a href="#" style="margin-right:1.5rem; color:#000; text-decoration:none;">Special editions</a>
+            <a href="#" style="margin-right:1.5rem; color:#000; text-decoration:none;">Objects</a>
+            <a href="#" style="color:#000; text-decoration:none;">Out of print</a>
+        </div>
+        <div class="cell medium-4">
+            <input type="text" placeholder="What are you looking for?" style="width:100%; padding:0.3rem; border:1px solid #ccc; border-radius:0;">
+        </div>
+    </div>
+</header>
+
+<!-- ===== PRODUCT GRID ===== -->
+<main>
+    <div class="grid-x grid-margin-x grid-margin-y">
+        
+        <!-- Product 1 -->
+        <div class="cell small-6 medium-4">
+            <div class="grid-item border-right border-bottom">
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a href="#"><img src="https://i.ibb.co/mybvLsz/CC-TAA-Tokyo-Cover-5-1536x1275-2ky-T.jpg" alt="The Artist’s Atlas: Tokyo"></a>
+                            <div class="product-title">
+                                <a href="#"><span>The Artist’s Atlas: Tokyo</span></a>
+                                <div class="badge"><img src="https://i.ibb.co/qmtnZrm/icon-happy-02-2ky-T.png" style="height:14px;" alt=""> pre-order</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="https://i.ibb.co/1djTBB7/highlight-tokyo-1536x1536-2ky-T.jpg" alt="The Artist’s Atlas: Tokyo"></a>
+                            <div class="product-title hide-mobile">
+                                <div class="flex-between">
+                                    <span><img src="https://i.ibb.co/rHxWzNH/club-2ky-T.png" style="height:20px;" alt=""> pre-order</span>
+                                    <a href="#" style="font-size:0.9rem;">select option</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Product 2 -->
+        <div class="cell small-6 medium-4">
+            <div class="grid-item border-right border-bottom">
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a href="#"><img src="https://i.ibb.co/k42zYqf/cc-trent-davis-bailey-1536x1024-2ky-T.png" alt="Son Pictures"></a>
+                            <div class="product-title">
+                                <a href="#"><span>Trent Davis Bailey - Son Pictures</span></a>
+                                <div class="badge"><img src="https://i.ibb.co/qmtnZrm/icon-happy-02-2ky-T.png" style="height:14px;" alt=""> in stock</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="https://i.ibb.co/RT2JMCr/sonpictures-square-1536x1536-2ky-T.jpg" alt="Son Pictures"></a>
+                            <div class="product-title hide-mobile">
+                                <div class="flex-between">
+                                    <span><img src="https://i.ibb.co/rHxWzNH/club-2ky-T.png" style="height:20px;" alt=""> in stock</span>
+                                    <span><span class="price">€58</span> <button class="btn">Add</button></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Product 3 -->
+        <div class="cell small-6 medium-4">
+            <div class="grid-item border-right border-bottom">
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a href="#"><img src="https://i.ibb.co/3skhq05/cc-republique-02-1536x1024-2ky-T.png" alt="République"></a>
+                            <div class="product-title">
+                                <a href="#"><span>Bérangère Fromont - République</span></a>
+                                <div class="badge"><img src="https://i.ibb.co/qmtnZrm/icon-happy-02-2ky-T.png" style="height:14px;" alt=""> in stock</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="https://i.ibb.co/dbJ65ZW/repsq2-1536x1528-2ky-T.jpg" alt="République"></a>
+                            <div class="product-title hide-mobile">
+                                <div class="flex-between">
+                                    <span><img src="https://i.ibb.co/rHxWzNH/club-2ky-T.png" style="height:20px;" alt=""> in stock</span>
+                                    <span><span class="price">€55</span> <button class="btn">Add</button></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Más productos pueden añadirse aquí -->
+
+    </div>
+</main>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer">
+    <div class="grid-x grid-padding-x align-middle">
+        <div class="cell medium-6">
+            <h3 style="font-size:1.5rem; margin-bottom:1rem;">Let's keep in touch!</h3>
+        </div>
+        <div class="cell medium-6 text-center medium-text-right">
+            <img src="https://i.ibb.co/xGMmfbF/cc-newsletter-c-2ky-T.png" alt="Newsletter" style="max-width:200px; height:auto;">
+        </div>
+    </div>
+    
+    <div class="grid-x grid-padding-x">
+        <div class="cell medium-6">
+            <form style="display:flex; flex-wrap:wrap; gap:0.5rem;">
+                <input type="text" placeholder="Name*" style="flex:1; padding:0.5rem; border:1px solid #ccc; border-radius:0;">
+                <input type="text" placeholder="Surname*" style="flex:1; padding:0.5rem; border:1px solid #ccc; border-radius:0;">
+                <input type="email" placeholder="Email*" style="flex:1; padding:0.5rem; border:1px solid #ccc; border-radius:0;">
+                <button type="submit" class="btn" style="padding:0.5rem 2rem;">Subscribe</button>
+            </form>
+            <p style="margin-top:2rem;">
+                <a href="https://www.instagram.com/chose_commune/" target="_blank">
+                    <img src="https://i.ibb.co/Cs9sS1C/instagram-2ky-T.png" style="height:25px;" alt="Instagram"> find us on Instagram
+                </a>
+            </p>
+        </div>
+    </div>
+
+    <div class="grid-x grid-padding-x text-center" style="margin-top:2rem; padding-top:1rem; border-top:1px solid #ccc;">
+        <div class="cell small-6 text-left">
+            <a href="#" style="color:#000; text-decoration:none;">©2026 Chose Commune</a>
+        </div>
+        <div class="cell small-6 text-right">
+            <a href="#">Legal notice</a>
+            <a href="#">Terms of sale</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+</footer>
+
+<!-- ===== SCRIPTS ===== -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+    // Inicializar Swiper
+    document.querySelectorAll('.swiper').forEach(el => {
+        new Swiper(el, {
+            effect: 'fade',
+            autoplay: { delay: 4000, disableOnInteraction: true },
+            loop: true,
+        });
+    });
+
+    // Menu móvil
+    function toggleMenu() {
+        const menu = document.getElementById('mobileMenu');
+        menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+    }
+</script>
+
+<!-- Foundation JS (opcional, solo para funcionalidades) -->
+<script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.5/dist/js/foundation.min.js"></script>
+<script>$(document).foundation();</script>
+
+</body>
+</html>
